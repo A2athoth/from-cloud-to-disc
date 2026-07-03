@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.4.0 - Disc materiality layer
+
+- Reconsidered the compact disc as a material layer rather than a metaphor only.
+- Added case insert, sleeve note, volume identifier, and booklet files.
+- Added Korean documentation for the disc layer.
+- Kept the archive plain-text only.
+
 ## 0.3.0 - Reader orientation
 
 - Reconsidered the archive as a first-time reader experience.

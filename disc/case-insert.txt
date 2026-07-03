@@ -1,0 +1,14 @@
+FROM CLOUD TO DISC
+
+A public repository prepared as a small time capsule.
+
+Contents:
+- plain text
+- Markdown
+- Korean and English notes
+- metadata
+- checksums
+
+No installer.
+No application.
+No required platform beyond a reader for text.
