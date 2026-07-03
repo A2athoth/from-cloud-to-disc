@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.3.0 - Reader orientation
+
+- Reconsidered the archive as a first-time reader experience.
+- Added bilingual reading paths for different entry points.
+- Added bilingual FAQ documents.
+- Added an evolution note documenting the review that led to this version.
+
 ## 0.2.0 - Bilingual archive expansion
 
 - Added a structured index and manifest.

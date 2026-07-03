@@ -6,7 +6,9 @@
     "markdown",
     "plain_text",
     "json",
-    "json-ld"
+    "json-ld",
+    "yaml",
+    "turtle"
   ],
   "intended_medium": [
     "git_repository",
@@ -18,5 +20,6 @@
   ],
   "license": "CC0-1.0",
   "purpose": "A small public artifact about digital records becoming physical objects.",
-  "principle": "English is used for reach. Korean is kept for origin. Both are part of the artifact."
+  "principle": "English is used for reach. Korean is kept for origin. Both are part of the artifact.",
+  "version": "0.3.0"
 }

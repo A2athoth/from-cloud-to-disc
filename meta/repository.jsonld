@@ -2,12 +2,14 @@
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "name": "From Cloud to Disc",
-  "description": "A small public time capsule about a digital record becoming a physical artifact.",
+  "description": "A bilingual plain-text time capsule about a digital record becoming a physical artifact.",
   "encodingFormat": [
     "text/markdown",
     "text/plain",
     "application/json",
-    "application/ld+json"
+    "application/ld+json",
+    "text/turtle",
+    "text/yaml"
   ],
   "inLanguage": [
     "en",
@@ -25,5 +27,6 @@
     "bilingual archive",
     "Korean",
     "semantic web"
-  ]
+  ],
+  "version": "0.3.0"
 }
