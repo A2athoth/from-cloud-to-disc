@@ -1,9 +1,9 @@
 # Why This Repository
 
-This repository was made because there was no conventional public project waiting to be shown.
+The honest starting point was simple: there was no conventional public project ready to publish.
 
-Instead of inventing one, the archive makes the situation itself visible.
+This repository does not hide that.
 
-It turns the absence of a public project into a public artifact about preservation, media, language, and availability.
+It turns the absence of a public software project into a public archive about the form itself: GitHub, visibility, preservation, language, and physical media.
 
-That makes it honest.
+That is the point.

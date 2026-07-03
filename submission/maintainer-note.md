@@ -1,11 +1,11 @@
 # Maintainer Note
 
-This repository should remain quiet.
+Keep the archive quiet.
 
-Future changes should improve clarity, structure, or preservation.
+Future changes should improve clarity, structure, preservation, or readability.
 
-They should not try to make the archive look larger than it is.
+Do not add files only to make the repository look larger.
 
-The best version of this repository is not the biggest one.
+The best version is not the biggest version.
 
-It is the version that can be understood later.
+It is the version that can still be understood later.

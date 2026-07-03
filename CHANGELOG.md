@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.5.0 - Submission packet sharpened
+
+- Sharpened the submission short descriptions.
+- Added one-sentence summaries in English and Korean.
+- Tightened notes on why the repository and disc matter.
+- Updated metadata, inventory, and checksums.
+
 ## 2.4.0 - Reviewer path simplification
 
 - Refined short reviewer guides in English and Korean.
