@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.8.0 - Accessibility layer
+
+- Re-reviewed the archive for low-tech and accessibility assumptions.
+- Added plain-language summaries in English and Korean.
+- Added offline reading, UTF-8, and no-JavaScript notes.
+- Updated metadata, inventory, and checksums.
+
 ## 1.7.0 - Structured data layer
 
 - Re-reviewed the archive as data without turning it into a data project.
