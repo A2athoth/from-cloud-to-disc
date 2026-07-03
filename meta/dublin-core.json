@@ -7,7 +7,8 @@
     "text/plain",
     "application/json",
     "application/ld+json",
-    "text/turtle"
+    "text/turtle",
+    "text/csv"
   ],
   "language": [
     "en",
@@ -19,7 +20,8 @@
     "time capsule",
     "public repository",
     "compact disc",
-    "plain text"
+    "plain text",
+    "bilingual archive"
   ],
-  "description": "A bilingual plain-text time capsule about a public digital record possibly becoming a physical artifact."
+  "description": "A bilingual plain-text time capsule about a GitHub repository moving from cloud storage toward a physical disc."
 }

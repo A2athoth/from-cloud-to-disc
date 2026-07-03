@@ -1,12 +1,13 @@
 layer,purpose,example
 entrance,help readers begin,README.md
+review,help reviewers evaluate quickly,REVIEWER_GUIDE.md
 core,carry the central archive,capsule.md
 korean-origin,preserve origin language,ko/note-on-language.md
-disc,imagine physical medium,disc/readme-on-disc.md
+physical-media,imagine disc and print contexts,disc/readme-on-disc.md
 preservation,explain durability strategy,preservation/README.md
 metadata,make identity machine-readable,meta/capsule.json
 future,help later readers recover context,future/README.md
 curation,control growth,curation/principles.md
 exhibits,frame objects as display pieces,exhibits/README.md
-print,prepare physical reading packet,print/README.md
-git,explain repository-native meaning,git/README.md
+accessibility,support low-tech reading,accessibility/README.md
+submission,summarize for quick evaluation,submission/short-description.md

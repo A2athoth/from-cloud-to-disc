@@ -1,4 +1,18 @@
 {
+  "reviewer": [
+    "README.md",
+    "REVIEWER_GUIDE.md",
+    "submission/short-description.md",
+    "disc/if-found.md",
+    "meta/provenance.md"
+  ],
+  "reviewer_ko": [
+    "README.ko.md",
+    "REVIEWER_GUIDE.ko.md",
+    "submission/short-description.ko.md",
+    "disc/if-found.md",
+    "meta/provenance.md"
+  ],
   "minimal": [
     "README.md",
     "README.ko.md",

@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.6.0 - Final metadata consistency
+
+- Updated structured metadata after the editorial polish.
+- Added reviewer and Korean reviewer filesets.
+- Regenerated file inventory and checksums.
+- Validated JSON, CSV, local links, and checksums.
+
 ## 2.5.0 - Submission packet sharpened
 
 - Sharpened the submission short descriptions.
