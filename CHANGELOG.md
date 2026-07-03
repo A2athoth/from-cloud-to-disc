@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.4.0 - Reviewer path simplification
+
+- Refined short reviewer guides in English and Korean.
+- Simplified the reviewer reading path.
+- Made the two-minute path visible from top-level documents.
+- Updated metadata, inventory, and checksums.
+
 ## 2.3.0 - English tone unification
 
 - Unified the English tone across high-visibility files.
