@@ -29,9 +29,13 @@
 ## 읽는 순서
 
 - [`INDEX.ko.md`](./INDEX.ko.md)
+- [`COLLECTION.ko.md`](./COLLECTION.ko.md)
+- [`READING_PATHS.ko.md`](./READING_PATHS.ko.md)
+- [`FAQ.ko.md`](./FAQ.ko.md)
 - [`ko/`](./ko/)
 - [`language/glossary-ko-en.md`](./language/glossary-ko-en.md)
 - [`disc/if-found.md`](./disc/if-found.md)
+- [`RELEASE_NOTES.md`](./RELEASE_NOTES.md)
 
 ## 라이선스
 

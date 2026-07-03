@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.0.1 - Archive consistency patch
+
+- Re-reviewed the candidate-complete archive for structural consistency after 1.0.0.
+- Updated README and index files so the final entry points reflect the expanded collection.
+- Regenerated the file inventory while excluding self-referential generated files.
+- Updated metadata versions and checksums without rewriting the 1.0.0 release tag.
+
 ## 1.0.0 - Candidate complete
 
 - Reconsidered the expanded repository as a whole collection.

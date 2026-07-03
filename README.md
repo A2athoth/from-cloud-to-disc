@@ -31,9 +31,11 @@ It contains:
 
 ## How to read this repository
 
-Start with [`INDEX.md`](./INDEX.md) or [`MANIFEST.md`](./MANIFEST.md).
+Start with [`INDEX.md`](./INDEX.md), [`COLLECTION.md`](./COLLECTION.md), or [`READING_PATHS.md`](./READING_PATHS.md).
 
-If you prefer Korean, start with [`README.ko.md`](./README.ko.md) or [`INDEX.ko.md`](./INDEX.ko.md).
+For the candidate-complete snapshot, see [`RELEASE_NOTES.md`](./RELEASE_NOTES.md) and [`EDITORIAL_NOTES.md`](./EDITORIAL_NOTES.md).
+
+If you prefer Korean, start with [`README.ko.md`](./README.ko.md), [`INDEX.ko.md`](./INDEX.ko.md), [`COLLECTION.ko.md`](./COLLECTION.ko.md), or [`READING_PATHS.ko.md`](./READING_PATHS.ko.md).
 
 If this repository reached you as a physical object, start with [`disc/readme-on-disc.md`](./disc/readme-on-disc.md).
 
@@ -61,7 +63,12 @@ This idea began in Korean. The repository speaks mostly in English so that it ca
 ## Files
 
 - [`INDEX.md`](./INDEX.md): a guide to the repository
+- [`COLLECTION.md`](./COLLECTION.md): a map of the final collection layers
+- [`READING_PATHS.md`](./READING_PATHS.md): suggested ways to read the archive
+- [`FAQ.md`](./FAQ.md): short answers for first-time readers
 - [`MANIFEST.md`](./MANIFEST.md): the purpose and principles of the artifact
+- [`RELEASE_NOTES.md`](./RELEASE_NOTES.md): candidate-complete release notes
+- [`EDITORIAL_NOTES.md`](./EDITORIAL_NOTES.md): notes on the iterative development process
 - [`present.md`](./present.md): observations from this moment
 - [`definitions.md`](./definitions.md): small definitions of digital words
 - [`notes-to-the-future.md`](./notes-to-the-future.md): a message to whoever finds this later
@@ -73,8 +80,11 @@ This idea began in Korean. The repository speaks mostly in English so that it ca
 - [`archive/`](./archive/): observations, predictions, and digital fossils
 - [`disc/`](./disc/): files written as if this repository became a disc
 - [`language/`](./language/): notes on Korean and English words
-- [`meta/`](./meta/): machine-readable metadata and checksums
+- [`preservation/`](./preservation/): preservation and verification notes
+- [`meta/`](./meta/): machine-readable metadata, inventory, and checksums
 - [`rfc/`](./rfc/): short essays in RFC form
+- [`evolution/`](./evolution/): version-by-version review notes
+- [`VERSION`](./VERSION): current archive version
 
 ## License
 
