@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.0.0 - Candidate complete
+
+- Reconsidered the expanded repository as a whole collection.
+- Added release notes, collection maps, editorial notes, and a final disc note.
+- Generated a file inventory and refreshed checksums.
+- Marked the archive as candidate-complete rather than endlessly expandable.
+
 ## 0.8.0 - Temporal archive layer
 
 - Reconsidered the archive as a temporal object.
