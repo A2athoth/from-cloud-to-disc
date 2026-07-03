@@ -1,0 +1,12 @@
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/A2athoth/from-cloud-to-disc>
+  a schema:CreativeWork ;
+  schema:name "From Cloud to Disc" ;
+  schema:description "A bilingual plain-text time capsule about a digital record becoming a physical artifact." ;
+  schema:inLanguage "en", "ko" ;
+  schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+  schema:keywords "time capsule", "digital preservation", "plain text", "compact disc", "public repository" ;
+  dcterms:format "text/markdown", "text/plain", "application/json", "application/ld+json" .

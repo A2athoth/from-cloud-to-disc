@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.6.0 - Semantic metadata layer
+
+- Reconsidered the repository as a semantic object as well as a human-readable archive.
+- Added Dublin Core-style metadata, Data Package metadata, RDF/Turtle catalog metadata, and citation metadata.
+- Documented the metadata folder.
+- Validated JSON metadata and regenerated checksums.
+
 ## 0.5.0 - Preservation protocol
 
 - Reconsidered the repository as an intentional archive, not only a literary object.

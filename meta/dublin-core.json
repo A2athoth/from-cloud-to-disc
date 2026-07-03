@@ -1,0 +1,25 @@
+{
+  "title": "From Cloud to Disc",
+  "creator": "A2athoth",
+  "type": "Text; Dataset; Archive",
+  "format": [
+    "text/markdown",
+    "text/plain",
+    "application/json",
+    "application/ld+json",
+    "text/turtle"
+  ],
+  "language": [
+    "en",
+    "ko"
+  ],
+  "rights": "CC0-1.0",
+  "subject": [
+    "digital preservation",
+    "time capsule",
+    "public repository",
+    "compact disc",
+    "plain text"
+  ],
+  "description": "A bilingual plain-text time capsule about a public digital record possibly becoming a physical artifact."
+}

@@ -1,0 +1,38 @@
+{
+  "profile": "data-package",
+  "name": "from-cloud-to-disc",
+  "title": "From Cloud to Disc",
+  "description": "A bilingual plain-text time capsule prepared as a public repository.",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "readme",
+      "path": "README.md",
+      "format": "md",
+      "mediatype": "text/markdown"
+    },
+    {
+      "name": "korean-readme",
+      "path": "README.ko.md",
+      "format": "md",
+      "mediatype": "text/markdown"
+    },
+    {
+      "name": "manifest",
+      "path": "MANIFEST.md",
+      "format": "md",
+      "mediatype": "text/markdown"
+    },
+    {
+      "name": "checksums",
+      "path": "meta/SHA256SUMS",
+      "format": "txt",
+      "mediatype": "text/plain"
+    }
+  ]
+}
