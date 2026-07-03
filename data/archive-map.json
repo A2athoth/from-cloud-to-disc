@@ -1,0 +1,20 @@
+{
+  "name": "from-cloud-to-disc",
+  "layers": [
+    "entrance",
+    "core",
+    "korean-origin",
+    "disc",
+    "archive",
+    "preservation",
+    "metadata",
+    "future",
+    "curation",
+    "exhibits",
+    "print",
+    "git",
+    "submission"
+  ],
+  "current_goal": "A curated bilingual plain-text artifact prepared for public and physical reading.",
+  "repository": "https://github.com/A2athoth/from-cloud-to-disc"
+}

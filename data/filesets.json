@@ -1,0 +1,30 @@
+{
+  "minimal": [
+    "README.md",
+    "README.ko.md",
+    "MANIFEST.md",
+    "notes-to-the-future.md",
+    "meta/SHA256SUMS"
+  ],
+  "korean": [
+    "README.ko.md",
+    "INDEX.ko.md",
+    "ko/README.md",
+    "ko/note-on-language.md",
+    "language/ko-layer-map.md"
+  ],
+  "disc": [
+    "disc/readme-on-disc.md",
+    "disc/if-found.md",
+    "disc/booklet.md",
+    "disc/booklet.ko.md",
+    "disc/final-note.md"
+  ],
+  "machine": [
+    "meta/capsule.json",
+    "meta/repository.jsonld",
+    "meta/dublin-core.json",
+    "meta/datapackage.json",
+    "data/archive-map.json"
+  ]
+}

@@ -1,0 +1,16 @@
+archive
+artifact
+bilingual
+checksum
+cloud
+compact-disc
+curation
+digital-preservation
+discoverability
+git
+korean
+markdown
+materiality
+plain-text
+public-repository
+time-capsule

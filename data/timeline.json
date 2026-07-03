@@ -1,0 +1,22 @@
+[
+  {
+    "phase": "before",
+    "summary": "Most repositories were private or not suitable for public reading."
+  },
+  {
+    "phase": "event",
+    "summary": "A public repository became useful because of a compact-disc-related event."
+  },
+  {
+    "phase": "artifact",
+    "summary": "The repository became a plain-text archive about that situation."
+  },
+  {
+    "phase": "expansion",
+    "summary": "The archive gained language, disc, preservation, metadata, future, and curation layers."
+  },
+  {
+    "phase": "later",
+    "summary": "The repository may be selected, ignored, copied, printed, burned to disc, or rediscovered."
+  }
+]

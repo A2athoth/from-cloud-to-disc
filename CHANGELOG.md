@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.7.0 - Structured data layer
+
+- Re-reviewed the archive as data without turning it into a data project.
+- Added structured JSON, CSV, keyword, timeline, and fileset views.
+- Validated JSON/CSV and regenerated metadata.
+- Kept human-readable plain text as the primary form.
+
 ## 1.6.0 - Korean depth pass
 
 - Re-reviewed the Korean layer for native-language depth.
