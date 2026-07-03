@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.5.0 - Preservation protocol
+
+- Reconsidered the repository as an intentional archive, not only a literary object.
+- Added preservation notes for formats, verification, migration, redundancy, and bit rot.
+- Documented checksum usage and limits.
+- Clarified why plain text is the primary preservation strategy.
+
 ## 0.4.0 - Disc materiality layer
 
 - Reconsidered the compact disc as a material layer rather than a metaphor only.
