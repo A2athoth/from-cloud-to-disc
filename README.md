@@ -64,6 +64,7 @@ This idea began in Korean. The repository speaks mostly in English so that it ca
 
 - [`INDEX.md`](./INDEX.md): a guide to the repository
 - [`COLLECTION.md`](./COLLECTION.md): a map of the final collection layers
+- [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md): a layer-by-layer archive map
 - [`READING_PATHS.md`](./READING_PATHS.md): suggested ways to read the archive
 - [`FAQ.md`](./FAQ.md): short answers for first-time readers
 - [`MANIFEST.md`](./MANIFEST.md): the purpose and principles of the artifact
@@ -83,6 +84,14 @@ This idea began in Korean. The repository speaks mostly in English so that it ca
 - [`preservation/`](./preservation/): preservation and verification notes
 - [`meta/`](./meta/): machine-readable metadata, inventory, and checksums
 - [`rfc/`](./rfc/): short essays in RFC form
+- [`curation/`](./curation/): principles for selective growth
+- [`exhibits/`](./exhibits/): museum-like textual exhibits
+- [`print/`](./print/): physical reading packet
+- [`git/`](./git/): Git-native meaning notes
+- [`future/`](./future/): future reader protocol
+- [`data/`](./data/): structured views of the archive
+- [`accessibility/`](./accessibility/): low-tech and plain-language reading notes
+- [`submission/`](./submission/): concise event-review packet
 - [`evolution/`](./evolution/): version-by-version review notes
 - [`VERSION`](./VERSION): current archive version
 

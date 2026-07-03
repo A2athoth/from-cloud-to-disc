@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.0.0 - Archive cohesion pass
+
+- Re-reviewed the expanded 1.9.0 archive for coherence rather than further content volume.
+- Added English and Korean archive maps.
+- Updated metadata, inventory, and checksums for 2.0.0.
+- Stopped at a mapped second major version instead of creating endless additions.
+
 ## 1.9.0 - Submission packet
 
 - Re-reviewed the archive as something an event reviewer might inspect quickly.

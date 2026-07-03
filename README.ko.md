@@ -30,6 +30,7 @@
 
 - [`INDEX.ko.md`](./INDEX.ko.md)
 - [`COLLECTION.ko.md`](./COLLECTION.ko.md)
+- [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md)
 - [`READING_PATHS.ko.md`](./READING_PATHS.ko.md)
 - [`FAQ.ko.md`](./FAQ.ko.md)
 - [`ko/`](./ko/)
