@@ -1,43 +1,29 @@
 # Collection
 
-This collection has ten layers.
+This is the curated collection summary. It is shorter than the full index and more practical than the conceptual map.
 
-## 1. Entrance
+## Essential reading
 
-`README.md`, `INDEX.md`, `COLLECTION.md`, `ARCHIVE_MAP.md`, `FAQ.md`, `READING_PATHS.md`
+1. [`README.md`](./README.md)
+2. [`REVIEWER_GUIDE.md`](./REVIEWER_GUIDE.md)
+3. [`MANIFEST.md`](./MANIFEST.md)
+4. [`disc/if-found.md`](./disc/if-found.md)
+5. [`meta/provenance.md`](./meta/provenance.md)
 
-## 2. Core archive
+## Korean origin reading
 
-`present.md`, `definitions.md`, `notes-to-the-future.md`, `software-proverbs.md`, `artifacts.md`, `questions.md`, `capsule.md`, `timeline.md`
+1. [`README.ko.md`](./README.ko.md)
+2. [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
+3. [`ko/note-on-language.md`](./ko/note-on-language.md)
+4. [`ko/essays/public-and-discoverable.md`](./ko/essays/public-and-discoverable.md)
 
-## 3. Korean origin
+## Preservation reading
 
-`README.ko.md`, `INDEX.ko.md`, `COLLECTION.ko.md`, `ARCHIVE_MAP.ko.md`, `ko/`, `language/`
+1. [`preservation/README.md`](./preservation/README.md)
+2. [`preservation/verification.md`](./preservation/verification.md)
+3. [`meta/SHA256SUMS`](./meta/SHA256SUMS)
+4. [`meta/file-inventory.md`](./meta/file-inventory.md)
 
-## 4. Physical media
+## For complete navigation
 
-`disc/`, `print/`
-
-## 5. Preservation and access
-
-`preservation/`, `accessibility/`, `meta/`, `CITATION.cff`
-
-## 6. Interpretation
-
-`archive/`, `exhibits/`, `rfc/`, `git/`, `future/`
-
-## 7. Curation
-
-`curation/`, `submission/`, `EDITORIAL_NOTES.md`
-
-## 8. Structured data
-
-`data/`, `meta/`
-
-## 9. Evolution
-
-`evolution/`, `CHANGELOG.md`, `VERSION`, `RELEASE_NOTES.md`
-
-## 10. Integrity
-
-`meta/SHA256SUMS`, `meta/file-inventory.md`, `preservation/verification.md`
+Use [`INDEX.md`](./INDEX.md) and [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md).

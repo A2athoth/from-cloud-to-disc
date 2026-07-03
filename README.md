@@ -1,54 +1,22 @@
 # From Cloud to Disc
 
-This repository was created for a strange and beautiful reason:
+A bilingual plain-text time capsule about a public GitHub repository moving from cloud storage toward a physical disc.
 
-to let a small digital record become a physical object.
+This is not a software product, library, or portfolio piece. It is a small public archive about media, preservation, language, and discoverability.
 
-I did not have a public project waiting to be published. Most things I make are private, unfinished, practical, temporary, or simply not meant for everyone.
+## Start here
 
-So this is not a product.  
-It is not a library.  
-It is not a portfolio piece.
-
-It is a small public artifact.
-
-A mark left in a place where code usually lives, made for the possibility that one day it may be written onto a disc.
-
-## What this is
-
-This repository is a tiny time capsule made of plain text.
-
-It contains:
-
-- observations about the present
-- definitions of digital things
-- notes to an unknown future reader
-- small proverbs about software and memory
-- descriptions of digital artifacts
-- questions worth preserving
-- Korean versions and notes kept as part of the artifact
-- metadata for humans and machines
-
-## How to read this repository
-
-Start with [`INDEX.md`](./INDEX.md), [`COLLECTION.md`](./COLLECTION.md), or [`READING_PATHS.md`](./READING_PATHS.md).
-
-For the candidate-complete snapshot, see [`RELEASE_NOTES.md`](./RELEASE_NOTES.md) and [`EDITORIAL_NOTES.md`](./EDITORIAL_NOTES.md).
-
-If you prefer Korean, start with [`README.ko.md`](./README.ko.md), [`INDEX.ko.md`](./INDEX.ko.md), [`COLLECTION.ko.md`](./COLLECTION.ko.md), or [`READING_PATHS.ko.md`](./READING_PATHS.ko.md).
-
-If this repository reached you as a physical object, start with [`disc/readme-on-disc.md`](./disc/readme-on-disc.md).
+- **Two-minute review:** [`REVIEWER_GUIDE.md`](./REVIEWER_GUIDE.md)
+- **Korean review:** [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
+- **Full map:** [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md)
+- **Reading paths:** [`READING_PATHS.md`](./READING_PATHS.md)
+- **Submission summary:** [`submission/short-description.md`](./submission/short-description.md)
 
 ## Why this exists
 
-Because a repository can be more than code.
+There was no conventional public project ready to show. Rather than inventing one, this repository records that situation directly.
 
-It can be a timestamp.  
-It can be a message.  
-It can be a small archive.  
-It can be a way to say:
-
-> This existed, even briefly, in public.
+A repository can be more than code. It can be a timestamp, a message, an archive, and a small artifact that becomes different when it can leave the cloud and become physical.
 
 ## Language
 
@@ -56,44 +24,19 @@ English is used for reach.
 Korean is kept for origin.  
 Both are part of the artifact.
 
-This idea began in Korean. The repository speaks mostly in English so that it can travel farther, but the Korean layer is not an afterthought. It is part of the record.
+The idea began in Korean. The repository uses English so it can travel farther, but the Korean layer is not an appendix. It is part of the record.
 
-한국어판 README는 [`README.ko.md`](./README.ko.md)에 있습니다.
+한국어 안내는 [`README.ko.md`](./README.ko.md)에서 시작할 수 있습니다.
 
-## Files
+## Document roles
 
-- [`INDEX.md`](./INDEX.md): a guide to the repository
-- [`COLLECTION.md`](./COLLECTION.md): a map of the final collection layers
-- [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md): a layer-by-layer archive map
-- [`READING_PATHS.md`](./READING_PATHS.md): suggested ways to read the archive
-- [`FAQ.md`](./FAQ.md): short answers for first-time readers
-- [`MANIFEST.md`](./MANIFEST.md): the purpose and principles of the artifact
-- [`RELEASE_NOTES.md`](./RELEASE_NOTES.md): candidate-complete release notes
-- [`EDITORIAL_NOTES.md`](./EDITORIAL_NOTES.md): notes on the iterative development process
-- [`present.md`](./present.md): observations from this moment
-- [`definitions.md`](./definitions.md): small definitions of digital words
-- [`notes-to-the-future.md`](./notes-to-the-future.md): a message to whoever finds this later
-- [`software-proverbs.md`](./software-proverbs.md): short sayings about software
-- [`artifacts.md`](./artifacts.md): digital objects described as artifacts
-- [`questions.md`](./questions.md): questions worth keeping
-- [`capsule.md`](./capsule.md): metadata for the time capsule
-- [`ko/`](./ko/): Korean layer
-- [`archive/`](./archive/): observations, predictions, and digital fossils
-- [`disc/`](./disc/): files written as if this repository became a disc
-- [`language/`](./language/): notes on Korean and English words
-- [`preservation/`](./preservation/): preservation and verification notes
-- [`meta/`](./meta/): machine-readable metadata, inventory, and checksums
-- [`rfc/`](./rfc/): short essays in RFC form
-- [`curation/`](./curation/): principles for selective growth
-- [`exhibits/`](./exhibits/): museum-like textual exhibits
-- [`print/`](./print/): physical reading packet
-- [`git/`](./git/): Git-native meaning notes
-- [`future/`](./future/): future reader protocol
-- [`data/`](./data/): structured views of the archive
-- [`accessibility/`](./accessibility/): low-tech and plain-language reading notes
-- [`submission/`](./submission/): concise event-review packet
-- [`evolution/`](./evolution/): version-by-version review notes
-- [`VERSION`](./VERSION): current archive version
+- [`README.md`](./README.md): short landing page
+- [`INDEX.md`](./INDEX.md): comprehensive file index
+- [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md): conceptual layer map
+- [`COLLECTION.md`](./COLLECTION.md): curated collection summary
+- [`READING_PATHS.md`](./READING_PATHS.md): suggested routes through the archive
+- [`MANIFEST.md`](./MANIFEST.md): purpose and principles
+- [`CHANGELOG.md`](./CHANGELOG.md): version history
 
 ## License
 

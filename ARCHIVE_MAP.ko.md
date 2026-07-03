@@ -1,60 +1,35 @@
 # 아카이브 지도
 
-`from-cloud-to-disc`는 하나의 긴 문서가 아니라 여러 레이어의 입구로 구성되어 있습니다.
+이 문서는 개념별 지도입니다. 모든 파일을 나열하기보다, 각 구성의 역할을 설명합니다.
 
-## 입구
+## 1. 입구
 
-- `README.md`
-- `README.ko.md`
-- `INDEX.md`
-- `INDEX.ko.md`
-- `COLLECTION.md`
-- `COLLECTION.ko.md`
-- `READING_PATHS.md`
-- `READING_PATHS.ko.md`
+저장소를 빠르게 이해하기 위한 문서입니다: `README.ko.md`, `REVIEWER_GUIDE.ko.md`, `READING_PATHS.ko.md`, `FAQ.ko.md`.
 
-## 핵심
+## 2. 핵심 아카이브
 
-- `MANIFEST.md`
-- `capsule.md`
-- `present.md`
-- `definitions.md`
-- `notes-to-the-future.md`
-- `questions.md`
+타임캡슐의 중심 문서입니다: `capsule.md`, `present.md`, `notes-to-the-future.md`, `questions.md`, `timeline.md`.
 
-## 한국어 출발점
+## 3. 한국어 출발점
 
-- `ko/`
-- `language/`
+이 생각이 어디에서 시작되었는지 보존하는 언어 층위입니다: `ko/`, `language/`, `README.ko.md`.
 
-## 물리 매체
+## 4. 물리 매체
 
-- `disc/`
-- `print/`
+저장소가 디스크나 인쇄물로 읽힐 가능성을 상상한 문서입니다: `disc/`, `print/`.
 
-## 해석과 전시
+## 5. 해석
 
-- `archive/`
-- `exhibits/`
-- `git/`
-- `future/`
-- `rfc/`
+저장소를 전시물, 미래의 유물, Git 기반 기록으로 읽는 문서입니다: `archive/`, `exhibits/`, `future/`, `git/`, `rfc/`.
 
-## 관리와 보존
+## 6. 관리와 보존
 
-- `curation/`
-- `preservation/`
-- `accessibility/`
-- `submission/`
+저장소가 너무 산만해지지 않고 오래 읽히도록 돕는 문서입니다: `curation/`, `preservation/`, `accessibility/`, `submission/`.
 
-## 기계가 읽을 수 있는 보조 정보
+## 7. 기계가 읽는 보조 정보
 
-- `meta/`
-- `data/`
-- `CITATION.cff`
+구조화된 메타데이터와 무결성 정보입니다: `meta/`, `data/`, `CITATION.cff`.
 
-## 변화의 기록
+## 8. 변화의 기록
 
-- `CHANGELOG.md`
-- `VERSION`
-- `evolution/`
+아카이브가 어떻게 바뀌었는지 남긴 기록입니다: `CHANGELOG.md`, `VERSION`, `evolution/`.

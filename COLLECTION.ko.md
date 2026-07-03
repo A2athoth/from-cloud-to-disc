@@ -1,43 +1,29 @@
 # 컬렉션
 
-이 컬렉션은 열 개의 레이어로 구성됩니다.
+이 문서는 큐레이션된 구성 요약입니다. 전체 색인보다 짧고, 개념 지도보다 실용적입니다.
 
-## 1. 입구
+## 핵심 읽기
 
-`README.md`, `README.ko.md`, `INDEX.md`, `INDEX.ko.md`, `COLLECTION.md`, `COLLECTION.ko.md`, `ARCHIVE_MAP.md`, `ARCHIVE_MAP.ko.md`, `FAQ.ko.md`, `READING_PATHS.ko.md`
+1. [`README.ko.md`](./README.ko.md)
+2. [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
+3. [`MANIFEST.md`](./MANIFEST.md)
+4. [`disc/if-found.md`](./disc/if-found.md)
+5. [`meta/provenance.md`](./meta/provenance.md)
 
-## 2. 핵심 아카이브
+## 한국어 출발점 읽기
 
-`present.md`, `definitions.md`, `notes-to-the-future.md`, `software-proverbs.md`, `artifacts.md`, `questions.md`, `capsule.md`, `timeline.md`
+1. [`ko/note-on-language.md`](./ko/note-on-language.md)
+2. [`language/ko-layer-map.md`](./language/ko-layer-map.md)
+3. [`ko/essays/public-and-discoverable.md`](./ko/essays/public-and-discoverable.md)
+4. [`ko/essays/record-and-trace.md`](./ko/essays/record-and-trace.md)
 
-## 3. 한국어 출발점
+## 보존 관련 읽기
 
-`ko/`, `language/`
+1. [`preservation/README.md`](./preservation/README.md)
+2. [`preservation/verification.md`](./preservation/verification.md)
+3. [`meta/SHA256SUMS`](./meta/SHA256SUMS)
+4. [`meta/file-inventory.md`](./meta/file-inventory.md)
 
-## 4. 물리 매체
+## 전체 탐색
 
-`disc/`, `print/`
-
-## 5. 보존과 접근성
-
-`preservation/`, `accessibility/`, `meta/`, `CITATION.cff`
-
-## 6. 해석
-
-`archive/`, `exhibits/`, `rfc/`, `git/`, `future/`
-
-## 7. 큐레이션
-
-`curation/`, `submission/`, `EDITORIAL_NOTES.md`
-
-## 8. 구조화 데이터
-
-`data/`, `meta/`
-
-## 9. 발전 기록
-
-`evolution/`, `CHANGELOG.md`, `VERSION`, `RELEASE_NOTES.md`
-
-## 10. 무결성
-
-`meta/SHA256SUMS`, `meta/file-inventory.md`, `preservation/verification.md`
+[`INDEX.ko.md`](./INDEX.ko.md)와 [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md)를 보면 됩니다.

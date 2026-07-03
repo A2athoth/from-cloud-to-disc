@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.1.0 - Top-level structure polish
+
+- Reduced repetition in top-level documents.
+- Clarified the roles of README, INDEX, ARCHIVE_MAP, COLLECTION, and READING_PATHS.
+- Kept archival redundancy where it helps self-description.
+- Updated metadata, inventory, and checksums.
+
 ## 2.0.0 - Archive cohesion pass
 
 - Re-reviewed the expanded 1.9.0 archive for coherence rather than further content volume.

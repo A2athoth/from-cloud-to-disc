@@ -1,60 +1,35 @@
 # Archive Map
 
-`from-cloud-to-disc` is organized into layered entrances rather than a single linear document.
+This is the conceptual map. It explains the archive by role, not by every file.
 
-## Entrance
+## 1. Entrance
 
-- `README.md`
-- `INDEX.md`
-- `COLLECTION.md`
-- `READING_PATHS.md`
-- `FAQ.md`
+Quick ways to understand the project: `README.md`, `REVIEWER_GUIDE.md`, `READING_PATHS.md`, `FAQ.md`.
 
-## Core
+## 2. Core archive
 
-- `MANIFEST.md`
-- `capsule.md`
-- `present.md`
-- `definitions.md`
-- `notes-to-the-future.md`
-- `questions.md`
+The central time-capsule texts: `capsule.md`, `present.md`, `notes-to-the-future.md`, `questions.md`, `timeline.md`.
 
-## Korean origin
+## 3. Korean origin
 
-- `README.ko.md`
-- `INDEX.ko.md`
-- `COLLECTION.ko.md`
-- `ko/`
-- `language/`
+The language layer that preserves where the idea began: `README.ko.md`, `ko/`, and `language/`.
 
-## Physical media
+## 4. Physical media
 
-- `disc/`
-- `print/`
+Texts that imagine the repository as a disc or printed packet: `disc/` and `print/`.
 
-## Interpretation
+## 5. Interpretation
 
-- `archive/`
-- `exhibits/`
-- `git/`
-- `future/`
-- `rfc/`
+Ways to read the archive as an exhibit, future object, or Git-native artifact: `archive/`, `exhibits/`, `future/`, `git/`, `rfc/`.
 
-## Stewardship
+## 6. Stewardship
 
-- `curation/`
-- `preservation/`
-- `accessibility/`
-- `submission/`
+Documents that keep the archive readable and restrained: `curation/`, `preservation/`, `accessibility/`, `submission/`.
 
-## Machine-readable support
+## 7. Machine-readable support
 
-- `meta/`
-- `data/`
-- `CITATION.cff`
+Structured metadata and integrity files: `meta/`, `data/`, `CITATION.cff`.
 
-## Change history
+## 8. Change history
 
-- `CHANGELOG.md`
-- `VERSION`
-- `evolution/`
+The record of how the archive evolved: `CHANGELOG.md`, `VERSION`, and `evolution/`.
