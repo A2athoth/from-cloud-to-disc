@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.2.0 - Final handoff checklist
+
+- Added final handoff files in English and Korean.
+- Recorded no-release/no-tag decision.
+- Documented the final URL, entry points, and final checks.
+- Updated metadata, inventory, and checksums.
+
 ## 3.1.0 - Korean final copy pass
 
 - Polished the Korean landing path.
