@@ -1,29 +1,33 @@
 # 읽는 경로
 
-이 저장소에는 하나의 정해진 읽기 순서가 없습니다.
+정해진 순서대로 읽을 필요는 없습니다. 목적에 맞는 입구를 고르면 됩니다.
 
-## GitHub에서 왔다면
+## 2분 안에 보고 싶다면
 
-1. `README.ko.md`
-2. `MANIFEST.md`
-3. `INDEX.ko.md`
-4. `ko/notes-to-the-future.md`
+1. [`README.ko.md`](./README.ko.md)
+2. [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
+3. [`submission/short-description.ko.md`](./submission/short-description.ko.md)
+
+## GitHub에서 처음 봤다면
+
+1. [`README.ko.md`](./README.ko.md)
+2. [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md)
+3. [`COLLECTION.ko.md`](./COLLECTION.ko.md)
 
 ## 디스크에서 읽고 있다면
 
-1. `disc/readme-on-disc.md`
-2. `disc/if-found.md`
-3. `ko/capsule.md`
-4. `meta/provenance.md`
+1. [`disc/readme-on-disc.md`](./disc/readme-on-disc.md)
+2. [`disc/if-found.md`](./disc/if-found.md)
+3. [`disc/booklet.ko.md`](./disc/booklet.ko.md)
 
-## 가장 짧게 읽고 싶다면
+## 한국어 출발점을 보고 싶다면
 
-1. `README.ko.md`
-2. `ko/capsule.md`
-3. `ko/questions.md`
+1. [`ko/note-on-language.md`](./ko/note-on-language.md)
+2. [`language/ko-layer-map.md`](./language/ko-layer-map.md)
+3. [`ko/essays/record-and-trace.md`](./ko/essays/record-and-trace.md)
 
-## 언어 레이어를 읽고 싶다면
+## 보존 방식이 궁금하다면
 
-1. `ko/note-on-language.md`
-2. `language/glossary-ko-en.md`
-3. `language/untranslatable-words.md`
+1. [`preservation/README.md`](./preservation/README.md)
+2. [`preservation/verification.md`](./preservation/verification.md)
+3. [`meta/file-inventory.md`](./meta/file-inventory.md)

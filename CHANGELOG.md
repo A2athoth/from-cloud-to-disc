@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.2.0 - Korean naturalness pass
+
+- Polished high-visibility Korean files for naturalness.
+- Reduced stiff repetition and overly literal phrasing.
+- Preserved the Korean origin-layer concept.
+- Updated metadata, inventory, and checksums.
+
 ## 2.1.0 - Top-level structure polish
 
 - Reduced repetition in top-level documents.
