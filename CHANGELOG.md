@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.9.0 - Submission packet
+
+- Re-reviewed the archive as something an event reviewer might inspect quickly.
+- Added a concise submission packet without creating a marketing deck.
+- Added English and Korean short descriptions and a maintainer note.
+- Updated metadata, inventory, and checksums.
+
 ## 1.8.0 - Accessibility layer
 
 - Re-reviewed the archive for low-tech and accessibility assumptions.
