@@ -1,5 +1,13 @@
 # Submission Packet
 
-This folder explains the repository as a candidate artifact without changing the archive into a pitch deck.
+This folder contains the shortest evaluation-oriented materials.
 
-It is here for readers who need a quick reason why this repository exists.
+Read in this order:
+
+1. `short-description.md`
+2. `one-sentence.md`
+3. `why-this-repository.md`
+4. `why-a-disc-matters.md`
+5. `github-about.md`
+
+For the top-level submission entry, see [`../SUBMIT.md`](../SUBMIT.md).

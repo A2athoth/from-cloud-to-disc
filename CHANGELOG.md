@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.0.0 - Submission-ready edition
+
+- Added top-level submission entry points in English and Korean.
+- Compressed the submission packet around a shorter reading order.
+- Recorded that no Release is required.
+- Updated metadata, inventory, and checksums.
+
 ## 2.9.0 - Repetition trim
 
 - Added a core-statement file to control intentional repetition.
