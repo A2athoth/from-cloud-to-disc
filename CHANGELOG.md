@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.3.0 - Physical reading packet
+
+- Re-reviewed the archive as a physical reading object.
+- Added printable one-page summaries in English and Korean.
+- Added card text and a minimal edition file list.
+- Updated metadata, inventory, and checksums.
+
 ## 1.2.0 - Exhibits layer
 
 - Re-reviewed the archive through the lens of exhibition.

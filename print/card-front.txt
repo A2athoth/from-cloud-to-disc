@@ -1,0 +1,6 @@
+FROM CLOUD TO DISC
+
+A small public time capsule
+made of plain text.
+
+github.com/A2athoth/from-cloud-to-disc
