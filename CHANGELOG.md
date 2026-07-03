@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.9.0 - Repetition trim
+
+- Added a core-statement file to control intentional repetition.
+- Shortened FAQ and curation notes.
+- Reduced repeated identity statements in high-visibility files.
+- Updated metadata, inventory, and checksums.
+
 ## 2.8.0 - Two-minute read test
 
 - Added English and Korean two-minute read test records.

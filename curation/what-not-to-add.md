@@ -1,11 +1,12 @@
 # What Not to Add
 
-This archive should avoid:
+Avoid adding:
 
+- files that only repeat the core statements
 - screenshots required for understanding
 - binary files that replace text
 - generic filler essays
-- jokes that weaken the artifact's quiet tone
+- jokes that weaken the quiet tone
 - automation that becomes the center of attention
 - personal details that do not serve the archive
 - files added only to increase file count
