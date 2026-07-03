@@ -6,7 +6,7 @@ This file records the final reviewer-path check.
 
 1. `README.md`
 2. `REVIEWER_GUIDE.md`
-3. `submission/short-description.md`
+3. `context/short-description.md`
 4. `disc/if-found.md`
 5. `meta/provenance.md`
 

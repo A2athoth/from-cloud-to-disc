@@ -6,11 +6,11 @@ This is not a software product, library, or portfolio piece. It is a small publi
 
 ## Start here
 
-- **Two-minute review:** [`REVIEWER_GUIDE.md`](./REVIEWER_GUIDE.md)
-- **Korean review:** [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
-- **Full map:** [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md)
-- **Reading paths:** [`READING_PATHS.md`](./READING_PATHS.md)
-- **Submission summary:** [`submission/short-description.md`](./submission/short-description.md)
+- **Two-minute review:** [`guide/REVIEWER_GUIDE.md`](./guide/REVIEWER_GUIDE.md)
+- **Korean review:** [`guide/REVIEWER_GUIDE.ko.md`](./guide/REVIEWER_GUIDE.ko.md)
+- **Full map:** [`guide/ARCHIVE_MAP.md`](./guide/ARCHIVE_MAP.md)
+- **Reading paths:** [`guide/READING_PATHS.md`](./guide/READING_PATHS.md)
+- **Short description:** [`context/short-description.md`](./context/short-description.md)
 
 ## Why this exists
 
@@ -24,22 +24,19 @@ English is used for reach.
 Korean is kept for origin.  
 Both are part of the artifact.
 
-The idea began in Korean. The repository uses English so it can travel farther, but the Korean layer is not an appendix. It is part of the record.
+The Korean layer is balanced by role, not by mechanical one-to-one file count. See [`guide/BILINGUAL_BALANCE.md`](./guide/BILINGUAL_BALANCE.md).
 
 한국어 안내는 [`README.ko.md`](./README.ko.md)에서 시작할 수 있습니다.
 
-## Document roles
+## Main folders
 
-- [`README.md`](./README.md): short landing page
-- [`INDEX.md`](./INDEX.md): comprehensive file index
-- [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md): conceptual layer map
-- [`COLLECTION.md`](./COLLECTION.md): curated collection summary
-- [`READING_PATHS.md`](./READING_PATHS.md): suggested routes through the archive
-- [`MANIFEST.md`](./MANIFEST.md): purpose and principles
-- [`CHANGELOG.md`](./CHANGELOG.md): version history
+- [`core/`](./core/): central archive texts
+- [`guide/`](./guide/): maps, reviewer paths, and editorial guidance
+- [`context/`](./context/): concise context and explanations
+- [`ko/`](./ko/): Korean origin layer
+- [`disc/`](./disc/): disc-oriented texts
+- [`meta/`](./meta/): metadata, inventory, and checksums
 
 ## License
 
 Released under [CC0 1.0 Universal](./LICENSE).
-
-You may copy, remix, quote, preserve, print, burn, archive, or forget this repository without asking permission.

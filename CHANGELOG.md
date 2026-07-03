@@ -4,6 +4,14 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.3.0 - Source cleanup and bilingual balance policy
+
+- Removed context/handoff files that made the archive feel too event-administrative.
+- Renamed `context/` to `context/` for a more natural archival role.
+- Reduced root clutter by moving guide and core documents into `guide/` and `core/`.
+- Added a bilingual balance policy explaining why Korean does not need strict one-to-one parity.
+- Updated links, metadata, inventory, and checksums after the restructure.
+
 ## 3.2.0 - Final handoff checklist
 
 - Added final handoff files in English and Korean.
@@ -14,7 +22,7 @@ The archive may continue to change before it becomes a fixed artifact.
 ## 3.1.0 - Korean final copy pass
 
 - Polished the Korean landing path.
-- Aligned Korean entry points with SUBMIT.ko.md.
+- Aligned Korean entry points with context/short-description.ko.md.
 - Removed minor stiffness in Korean phrasing.
 - Updated metadata, inventory, and checksums.
 

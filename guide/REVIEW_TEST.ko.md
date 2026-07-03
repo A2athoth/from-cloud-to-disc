@@ -6,7 +6,7 @@
 
 1. `README.ko.md`
 2. `REVIEWER_GUIDE.ko.md`
-3. `submission/short-description.ko.md`
+3. `context/short-description.ko.md`
 4. `disc/if-found.md`
 5. `meta/provenance.md`
 

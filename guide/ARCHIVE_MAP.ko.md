@@ -24,7 +24,7 @@
 
 ## 6. 관리와 보존
 
-저장소가 너무 산만해지지 않고 오래 읽히도록 돕는 문서입니다: `curation/`, `preservation/`, `accessibility/`, `submission/`.
+저장소가 너무 산만해지지 않고 오래 읽히도록 돕는 문서입니다: `curation/`, `preservation/`, `accessibility/`, `context/`.
 
 ## 7. 기계가 읽는 보조 정보
 

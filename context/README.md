@@ -10,4 +10,4 @@ Read in this order:
 4. `why-a-disc-matters.md`
 5. `github-about.md`
 
-For the top-level submission entry, see [`../SUBMIT.md`](../SUBMIT.md).
+For the top-level submission entry, see [`../context/short-description.md`](short-description.md).

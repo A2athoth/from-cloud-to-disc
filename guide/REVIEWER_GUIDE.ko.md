@@ -16,10 +16,10 @@
 
 ## 먼저 읽을 것
 
-1. [`README.ko.md`](./README.ko.md)
-2. [`submission/short-description.ko.md`](./submission/short-description.ko.md)
-3. [`disc/if-found.md`](./disc/if-found.md)
-4. [`meta/provenance.md`](./meta/provenance.md)
+1. [`README.ko.md`](../README.ko.md)
+2. [`context/short-description.ko.md`](../context/short-description.ko.md)
+3. [`disc/if-found.md`](../disc/if-found.md)
+4. [`meta/provenance.md`](../meta/provenance.md)
 5. [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md)
 
 ## 왜 디스크인가

@@ -24,7 +24,7 @@ Ways to read the archive as an exhibit, future object, or Git-native artifact: `
 
 ## 6. Stewardship
 
-Documents that keep the archive readable and restrained: `curation/`, `preservation/`, `accessibility/`, `submission/`.
+Documents that keep the archive readable and restrained: `curation/`, `preservation/`, `accessibility/`, `context/`.
 
 ## 7. Machine-readable support
 

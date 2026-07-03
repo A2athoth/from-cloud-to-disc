@@ -16,10 +16,10 @@ Instead of inventing one, the repository records that absence directly and turns
 
 ## What to read first
 
-1. [`README.md`](./README.md)
-2. [`submission/short-description.md`](./submission/short-description.md)
-3. [`disc/if-found.md`](./disc/if-found.md)
-4. [`meta/provenance.md`](./meta/provenance.md)
+1. [`README.md`](../README.md)
+2. [`context/short-description.md`](../context/short-description.md)
+3. [`disc/if-found.md`](../disc/if-found.md)
+4. [`meta/provenance.md`](../meta/provenance.md)
 5. [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md)
 
 ## Why a disc matters

@@ -6,10 +6,11 @@
 
 ## 여기서 시작하기
 
-- **제출용 입구:** [`SUBMIT.ko.md`](./SUBMIT.ko.md)
-- **2분 검토:** [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
-- **전체 지도:** [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md)
-- **읽는 경로:** [`READING_PATHS.ko.md`](./READING_PATHS.ko.md)
+- **2분 검토:** [`guide/REVIEWER_GUIDE.ko.md`](./guide/REVIEWER_GUIDE.ko.md)
+- **영어 검토:** [`guide/REVIEWER_GUIDE.md`](./guide/REVIEWER_GUIDE.md)
+- **전체 지도:** [`guide/ARCHIVE_MAP.ko.md`](./guide/ARCHIVE_MAP.ko.md)
+- **읽는 경로:** [`guide/READING_PATHS.ko.md`](./guide/READING_PATHS.ko.md)
+- **짧은 설명:** [`context/short-description.ko.md`](./context/short-description.ko.md)
 
 ## 왜 만들었나
 
@@ -22,6 +23,17 @@
 영어는 더 멀리 읽히기 위해 사용했습니다.  
 한국어는 이 생각의 출발점을 보존하기 위해 남겼습니다.  
 둘 다 이 기록의 일부입니다.
+
+한국어와 영어는 파일 수를 기계적으로 맞추기보다, 독자가 들어오는 경로 기준으로 균형을 맞춥니다. 자세한 기준은 [`guide/BILINGUAL_BALANCE.md`](./guide/BILINGUAL_BALANCE.md)에 있습니다.
+
+## 주요 폴더
+
+- [`core/`](./core/): 핵심 아카이브 문서
+- [`guide/`](./guide/): 지도, 검토 경로, 편집 기준
+- [`context/`](./context/): 짧은 설명과 맥락
+- [`ko/`](./ko/): 한국어 출발점 레이어
+- [`disc/`](./disc/): 디스크를 상상한 문서
+- [`meta/`](./meta/): 메타데이터, 인벤토리, 체크섬
 
 ## 라이선스
 
