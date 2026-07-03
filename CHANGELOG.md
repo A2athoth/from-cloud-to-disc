@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.8.0 - Temporal archive layer
+
+- Reconsidered the archive as a temporal object.
+- Added English and Korean timelines.
+- Added one-page present, assumptions, contradictions, and future archaeologist notes.
+- Strengthened the time-capsule identity without adding binaries or automation.
+
 ## 0.7.0 - Korean origin layer
 
 - Reconsidered Korean as an origin layer rather than only a translation layer.

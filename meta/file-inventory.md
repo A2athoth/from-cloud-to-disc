@@ -5,7 +5,7 @@ Generated from the repository working tree.
 | Path | Bytes | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 46 | `55cacc139803beb1e5c23bda66d419827861b03b5fef8432df61e388fc41c9d5` |
-| `CHANGELOG.md` | 2035 | `f6ac6eb372867aa3ce4c674fea0dfc3efb4c26c2e08ff5df5c8547a380072852` |
+| `CHANGELOG.md` | 2325 | `73a54b23e1a9e6530383cbd39e6a060cd4070573c2990b89975f829d8aaa58f1` |
 | `CITATION.cff` | 355 | `065a9f43ad1ddf9bdcc349f516171095bda9af47d2862bb58a7b78b9f980a701` |
 | `FAQ.ko.md` | 688 | `6b654e1e3300167657fc09c5864302d609b08f82d9874b656648069507055784` |
 | `FAQ.md` | 630 | `cc243341b5be9cc52dcaa3ed7f351fc01073c7013ad66b341a1db567fa44843c` |
@@ -17,10 +17,14 @@ Generated from the repository working tree.
 | `READING_PATHS.md` | 690 | `74b18fc342bda27d7c5b8e5f894436cbbe447f6ac5a3f6c8ec08d13246fdfe8d` |
 | `README.ko.md` | 1353 | `900e08fe210de4d48e764c0f4249401aa8e62856298b6196296c53498661842f` |
 | `README.md` | 2981 | `8acbf9f60c492a3111a1ead095a86eddf5c8e45b702078585911456ce9b28d1c` |
-| `VERSION` | 6 | `967d9afb101346667166f2e76e81910bc190488d7d41d50ca0072e9d92f00e32` |
+| `VERSION` | 6 | `a66780da23103beaf12432b418508966b31a2a3a787f9468a5b6cdaa8667c1ef` |
+| `archive/assumptions.md` | 455 | `8ed7ba13029cb0c5c2a519ddfcfb1a4c6ee5e242de636ac1453a2d209c05b0cf` |
+| `archive/contradictions.md` | 564 | `309afdcdb35f1fbce887088ee9599a45d29512b91cccd0f772a3dfacde472a21` |
 | `archive/digital-fossils.md` | 544 | `106fb9a4f9ba6f8b0db7fc0ab9fec52e2955b1ebfc9300118a7fd657d8dc379f` |
 | `archive/field-notes.md` | 936 | `659906c188d8c1c7dee096363ca9f09b5e8279907d5012a12b3baae8c4cf5251` |
+| `archive/future-archaeologist-note.md` | 396 | `f898efb52e4875633588940f468d24cf022be9bc832340c97fced868b735059f` |
 | `archive/obsolete-soon.md` | 654 | `0148497fc12b2ddba46fc00a0fc624f8b9e4d7fc6693ef77e689e1b6f8af97de` |
+| `archive/one-page-present.md` | 491 | `95a7e23c0747f7a66f82343389f40ddf84b723b606075f7726cd7a7e7f1951d7` |
 | `archive/predictions.md` | 714 | `4d4f6bfcc3ad4f5d03f63c0a847b98943cd0b99a6b7509ce7b9fd3fe728a3d76` |
 | `archive/things-that-may-age-strangely.md` | 720 | `717a56f5d93ff1ca69bbdc0f8cb126a3d7e5330a4c2d94e9ff77e681b2b0353c` |
 | `artifacts.md` | 1400 | `2a41c16079eb327ef932964ebcd11a6c96839a8d744744bdf668e552ed9098d6` |
@@ -40,6 +44,7 @@ Generated from the repository working tree.
 | `evolution/0.5.0.md` | 630 | `aff2c99343e5a9440d266361c7a3c68ed3263c75329f14375142f9cb93468a45` |
 | `evolution/0.6.0.md` | 585 | `5c2bf8fb8904854f2fab76e0a1d797f3182208669710774c4d793e36f638d3ab` |
 | `evolution/0.7.0.md` | 567 | `bbbb9d80bb4822c6a7fefe5e471a9b806b9117de3bcaa299813239aa9ff2babd` |
+| `evolution/0.8.0.md` | 569 | `b698d023125be4f35e204d6ac1337b8da4677b96602c16db5b8c4b7fbe33080d` |
 | `ko/README.md` | 869 | `bbf4956cb94478855eadd6bbbb7a95f4dcff8119db96ca37ad42e5934c499960` |
 | `ko/archive/field-notes.md` | 588 | `0cee7b5d5c7fda94d74afeed1d25b00e438636c6e05496fac752c51ca4ab7b6c` |
 | `ko/archive/predictions.md` | 654 | `ecab3e3e365ca33445a2d4fbab2126a67f7a75ef53b49ebb6a87752a2bd44177` |
@@ -58,13 +63,13 @@ Generated from the repository working tree.
 | `language/translation-notes.md` | 387 | `6675ea39006a84cfc4334c6702925422eb4051d292c59c83f6ec5b2ccb2a73c3` |
 | `language/untranslatable-words.md` | 594 | `b8c78a1a5e917f41e20ffeb34e2933e4c5b5287e05b4c0df353edb0987fa18ed` |
 | `meta/README.md` | 436 | `aad912c2ea0dc79621d5bbf78afd949d8eb7fea589383f55e85b657cb12e815c` |
-| `meta/capsule.json` | 554 | `e32dbe52f7318f35437a13407093d8ac3fa7968b1bd8e733fef9e64b05fecaf9` |
+| `meta/capsule.json` | 554 | `ce4b699567559285201982f9b2884e88bb7085dad096e567d0df19ef1eee0371` |
 | `meta/catalog.ttl` | 672 | `c31ddc1a7388eaa20857716aa2f03115acbbf965fbe2c4e3f6bb02a84d1abb2c` |
 | `meta/datapackage.json` | 837 | `a15518a3bbdac8bf5c151c557fa81b9bc8aa52701a461bd84a5a23d4109f9f10` |
 | `meta/dublin-core.json` | 542 | `1a3c3734f4a38dd2d3047af674d60740dd6eaa6c4fb97f82ad2a297031c29194` |
-| `meta/file-inventory.md` | 6752 | `3d9ffe4326392c75683492156458504215424dee7f5cc7d8b61166fa96c1fb7f` |
+| `meta/file-inventory.md` | 7512 | `1ae19f93a683b180a69f4f6afa0b2dd023fa819352d4ec1062723ef90b5cf719` |
 | `meta/provenance.md` | 771 | `68ad7bc498d428f5bef42d049952ed2b44da093503c21f8734e9b738a6b0a35c` |
-| `meta/repository.jsonld` | 711 | `9898ba40812ee8c7fa994d67791b2fd21a20301608739314911e71e65bfca3b7` |
+| `meta/repository.jsonld` | 711 | `a27d865454efc76f3bf3fa81682b0e3d7c30b26f43b705849026b58e07e8ead9` |
 | `notes-to-the-future.md` | 1582 | `becd9976891e2fbc2bd2bcb1d4359cf2ec0e63ede6ed5d9474b8cc2dcd34da0e` |
 | `present.md` | 1374 | `242f5885d3ec0aa43f6c8c850e25d181a1d9bf355fad131c565eb12e8fe9631b` |
 | `preservation/README.md` | 304 | `ce37e4224daec04c111087ced85818c019d2138d54f53faf6b6e2bd956d326b1` |
@@ -77,3 +82,5 @@ Generated from the repository working tree.
 | `rfc/0001-repositories-as-artifacts.md` | 815 | `c7efeeec2c040cee70fbc3fa58f781ac3c6ff385df1d89db2330b08a8274d91d` |
 | `rfc/0002-public-does-not-mean-popular.md` | 578 | `4f39bcd52a268ae0700f3e4f22bfb4617aedc410be7af916262cba28831d54d5` |
 | `software-proverbs.md` | 1261 | `d53a49e21fc93d3e78efe179be0f95537ac96189b7a4c7b8737931ae231f0044` |
+| `timeline.ko.md` | 780 | `a5576eb7d943bbb971627bd33fd807048ec083fa2df685aa8938f49b1021a1ac` |
+| `timeline.md` | 595 | `c28b9ce22fa7567a1a0d83c3d35e336a9ad3f6779e5862ec6052fdec08115165` |
