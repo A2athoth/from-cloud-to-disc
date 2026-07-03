@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.8.0 - Two-minute read test
+
+- Added English and Korean two-minute read test records.
+- Documented reviewer path and pass criteria.
+- Verified the archive remains identifiable without opening every folder.
+- Updated metadata, inventory, and checksums.
+
 ## 2.7.0 - GitHub surface polish
 
 - Added GitHub About recommendation files in English and Korean.

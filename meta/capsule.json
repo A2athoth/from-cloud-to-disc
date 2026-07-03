@@ -21,7 +21,7 @@
     "ko"
   ],
   "license": "CC0-1.0",
-  "purpose": "A bilingual plain-text artifact about a public GitHub repository becoming meaningful as it moves from cloud storage toward a physical disc.",
-  "principle": "This archive grows by selection, not accumulation. English is used for reach; Korean is kept for origin.",
-  "version": "2.7.0"
+  "purpose": "A polished bilingual plain-text artifact about a public GitHub repository becoming meaningful as it moves from cloud storage toward a physical disc.",
+  "principle": "Small enough to understand; structured enough to preserve; bilingual by origin and reach.",
+  "version": "2.8.0"
 }
