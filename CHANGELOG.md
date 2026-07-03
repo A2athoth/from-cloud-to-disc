@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.1.0 - Curation model
+
+- Re-reviewed the 1.0.1 archive as a growing collection.
+- Added curation principles and selection criteria.
+- Documented what should not be added.
+- Updated metadata, inventory, and checksums.
+
 ## 1.0.1 - Archive consistency patch
 
 - Re-reviewed the candidate-complete archive for structural consistency after 1.0.0.

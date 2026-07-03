@@ -7,7 +7,7 @@ Generated from the repository working tree.
 | Path | Bytes | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 46 | `55cacc139803beb1e5c23bda66d419827861b03b5fef8432df61e388fc41c9d5` |
-| `CHANGELOG.md` | 3012 | `5d655a7f5c21238451b1346849d6399391953a1e3eb3a5c065bb535b07e7f1b2` |
+| `CHANGELOG.md` | 3234 | `05d221be6bf663abc9d265053aee5bfb610bd68e32ca80ec73221b89ec97bd14` |
 | `CITATION.cff` | 355 | `065a9f43ad1ddf9bdcc349f516171095bda9af47d2862bb58a7b78b9f980a701` |
 | `COLLECTION.ko.md` | 593 | `dc48b1c9837a30269c0fb2e5542bc57fcd14a1eb77c6e1e6985da00e466fe958` |
 | `COLLECTION.md` | 538 | `e276b49817c5b8785771151be3a926b064844e938f82118d27a13657ed916584` |
@@ -23,7 +23,7 @@ Generated from the repository working tree.
 | `README.ko.md` | 1517 | `2bf06a46de6053fefb64fe27ab7ee257b516b1f756dcd55aeb3ecd6e302167ed` |
 | `README.md` | 3835 | `0e3ebaa0f4fba8055b4f4d1dac3306a66acc46aab54afd6442baf53b13fa44c0` |
 | `RELEASE_NOTES.md` | 688 | `5104890c75fe273e989963b824f6c14d37159f5835facfad1205f35fbe0fc0bb` |
-| `VERSION` | 6 | `44e161e4495cac2cf7858043e9e6418e9579f0ddcfae826f9a372622968ce066` |
+| `VERSION` | 6 | `1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8` |
 | `archive/assumptions.md` | 455 | `8ed7ba13029cb0c5c2a519ddfcfb1a4c6ee5e242de636ac1453a2d209c05b0cf` |
 | `archive/contradictions.md` | 564 | `309afdcdb35f1fbce887088ee9599a45d29512b91cccd0f772a3dfacde472a21` |
 | `archive/digital-fossils.md` | 544 | `106fb9a4f9ba6f8b0db7fc0ab9fec52e2955b1ebfc9300118a7fd657d8dc379f` |
@@ -35,6 +35,10 @@ Generated from the repository working tree.
 | `archive/things-that-may-age-strangely.md` | 720 | `717a56f5d93ff1ca69bbdc0f8cb126a3d7e5330a4c2d94e9ff77e681b2b0353c` |
 | `artifacts.md` | 1400 | `2a41c16079eb327ef932964ebcd11a6c96839a8d744744bdf668e552ed9098d6` |
 | `capsule.md` | 1114 | `6c4d4f2f144f356aadf6650b59930e54df0cb52fec3923813c873695a89d07ff` |
+| `curation/README.md` | 440 | `806479be93f95d264747d249b7c3a238f57ec09c7b5b1c20ed46675e781afd45` |
+| `curation/principles.md` | 593 | `e3170ba1a294e5ac014f3ff1726843f23731a7118445046be0b8bb5d5bab9cb4` |
+| `curation/selection-criteria.md` | 433 | `cac57331396ece5a52a0161946927ed71350bd4b38ead0b441f1f247e5b60d21` |
+| `curation/what-not-to-add.md` | 383 | `3b7966120b7b1672995c6589dd27b0d33adf2ad9118f27a3abb1a55fd6a06ac3` |
 | `definitions.md` | 1313 | `6898ec94a56a6783b3fc16bd1f2f6f2700012b75991389e6214b71cc8b6f72d3` |
 | `disc/README.ko.md` | 502 | `a366ce846e0fb05d677fb34093a8c5c2c62bf052ba1a636409965f708fae6687` |
 | `disc/booklet.ko.md` | 796 | `51d7267f6ee5c35c96a7cbec66c07f6721dd71afca4c9cfdf2983a3428e95ac8` |
@@ -54,6 +58,7 @@ Generated from the repository working tree.
 | `evolution/0.8.0.md` | 569 | `b698d023125be4f35e204d6ac1337b8da4677b96602c16db5b8c4b7fbe33080d` |
 | `evolution/1.0.0.md` | 690 | `6eff6be09f47edc6af64c9e2a8ac4ca6109b80797d1564cb935d8d1208e82558` |
 | `evolution/1.0.1.md` | 734 | `cb46f26bbd7f3ef52dfc516ddc65ef636f1f3696bc2ff6286840f4008a341d14` |
+| `evolution/1.1.0.md` | 586 | `db07edf971634aa8838b37111f0336da38f09c56ff53480a246ddc5ca1736697` |
 | `ko/README.md` | 869 | `bbf4956cb94478855eadd6bbbb7a95f4dcff8119db96ca37ad42e5934c499960` |
 | `ko/archive/field-notes.md` | 588 | `0cee7b5d5c7fda94d74afeed1d25b00e438636c6e05496fac752c51ca4ab7b6c` |
 | `ko/archive/predictions.md` | 654 | `ecab3e3e365ca33445a2d4fbab2126a67f7a75ef53b49ebb6a87752a2bd44177` |
@@ -72,12 +77,12 @@ Generated from the repository working tree.
 | `language/translation-notes.md` | 387 | `6675ea39006a84cfc4334c6702925422eb4051d292c59c83f6ec5b2ccb2a73c3` |
 | `language/untranslatable-words.md` | 594 | `b8c78a1a5e917f41e20ffeb34e2933e4c5b5287e05b4c0df353edb0987fa18ed` |
 | `meta/README.md` | 436 | `aad912c2ea0dc79621d5bbf78afd949d8eb7fea589383f55e85b657cb12e815c` |
-| `meta/capsule.json` | 554 | `c73443e8421dbf23f0feb0586ec68fc7e2acffcfb2993ac1e83f5be78c4c5a1f` |
+| `meta/capsule.json` | 633 | `b7ef92f639713b84fb967840bfd077673a925e221148d0154bb9d178aaa22a7d` |
 | `meta/catalog.ttl` | 672 | `c31ddc1a7388eaa20857716aa2f03115acbbf965fbe2c4e3f6bb02a84d1abb2c` |
 | `meta/datapackage.json` | 837 | `a15518a3bbdac8bf5c151c557fa81b9bc8aa52701a461bd84a5a23d4109f9f10` |
 | `meta/dublin-core.json` | 542 | `1a3c3734f4a38dd2d3047af674d60740dd6eaa6c4fb97f82ad2a297031c29194` |
 | `meta/provenance.md` | 771 | `68ad7bc498d428f5bef42d049952ed2b44da093503c21f8734e9b738a6b0a35c` |
-| `meta/repository.jsonld` | 711 | `0eaf355442ffe55e5ffa0bbbe102e42704a35f15c619842cebd090724aacbae9` |
+| `meta/repository.jsonld` | 754 | `dda84150bfbb855ba5a4babc9bb465664a06a6e45b20d914fcb51f0df577a452` |
 | `notes-to-the-future.md` | 1582 | `becd9976891e2fbc2bd2bcb1d4359cf2ec0e63ede6ed5d9474b8cc2dcd34da0e` |
 | `present.md` | 1374 | `242f5885d3ec0aa43f6c8c850e25d181a1d9bf355fad131c565eb12e8fe9631b` |
 | `preservation/README.md` | 304 | `ce37e4224daec04c111087ced85818c019d2138d54f53faf6b6e2bd956d326b1` |
