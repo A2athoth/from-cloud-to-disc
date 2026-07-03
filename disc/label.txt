@@ -1,0 +1,9 @@
+FROM CLOUD TO DISC
+
+A small public time capsule
+made of plain text.
+
+English for reach.
+Korean for origin.
+
+If found, read README.md first.

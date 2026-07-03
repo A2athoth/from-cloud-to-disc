@@ -1,0 +1,22 @@
+{
+  "name": "from-cloud-to-disc",
+  "title": "From Cloud to Disc",
+  "type": "digital_time_capsule",
+  "format": [
+    "markdown",
+    "plain_text",
+    "json",
+    "json-ld"
+  ],
+  "intended_medium": [
+    "git_repository",
+    "compact_disc"
+  ],
+  "language": [
+    "en",
+    "ko"
+  ],
+  "license": "CC0-1.0",
+  "purpose": "A small public artifact about digital records becoming physical objects.",
+  "principle": "English is used for reach. Korean is kept for origin. Both are part of the artifact."
+}

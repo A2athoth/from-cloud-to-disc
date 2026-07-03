@@ -26,6 +26,16 @@ It contains:
 - small proverbs about software and memory
 - descriptions of digital artifacts
 - questions worth preserving
+- Korean versions and notes kept as part of the artifact
+- metadata for humans and machines
+
+## How to read this repository
+
+Start with [`INDEX.md`](./INDEX.md) or [`MANIFEST.md`](./MANIFEST.md).
+
+If you prefer Korean, start with [`README.ko.md`](./README.ko.md) or [`INDEX.ko.md`](./INDEX.ko.md).
+
+If this repository reached you as a physical object, start with [`disc/readme-on-disc.md`](./disc/readme-on-disc.md).
 
 ## Why this exists
 
@@ -38,20 +48,20 @@ It can be a way to say:
 
 > This existed, even briefly, in public.
 
-## 한국어로
+## Language
 
-이 저장소는 특별한 기능을 제공하지 않습니다.
+English is used for reach.  
+Korean is kept for origin.  
+Both are part of the artifact.
 
-공개할 만한 완성된 프로젝트가 없었지만, 공개된 공간에 작은 기록 하나쯤은 남길 수 있다고 생각했습니다.
+This idea began in Korean. The repository speaks mostly in English so that it can travel farther, but the Korean layer is not an afterthought. It is part of the record.
 
-클라우드에 있던 텍스트가 언젠가 CD라는 물리적인 물건이 될 수도 있다는 점이 흥미로웠습니다.
-
-그래서 이 저장소는 코드가 아니라 기록입니다.
-
-완성품이 아니어도, 유용하지 않아도, 거창하지 않아도, 어떤 것은 보존될 가치가 있습니다.
+한국어판 README는 [`README.ko.md`](./README.ko.md)에 있습니다.
 
 ## Files
 
+- [`INDEX.md`](./INDEX.md): a guide to the repository
+- [`MANIFEST.md`](./MANIFEST.md): the purpose and principles of the artifact
 - [`present.md`](./present.md): observations from this moment
 - [`definitions.md`](./definitions.md): small definitions of digital words
 - [`notes-to-the-future.md`](./notes-to-the-future.md): a message to whoever finds this later
@@ -59,6 +69,12 @@ It can be a way to say:
 - [`artifacts.md`](./artifacts.md): digital objects described as artifacts
 - [`questions.md`](./questions.md): questions worth keeping
 - [`capsule.md`](./capsule.md): metadata for the time capsule
+- [`ko/`](./ko/): Korean layer
+- [`archive/`](./archive/): observations, predictions, and digital fossils
+- [`disc/`](./disc/): files written as if this repository became a disc
+- [`language/`](./language/): notes on Korean and English words
+- [`meta/`](./meta/): machine-readable metadata and checksums
+- [`rfc/`](./rfc/): short essays in RFC form
 
 ## License
 

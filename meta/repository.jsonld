@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "From Cloud to Disc",
+  "description": "A small public time capsule about a digital record becoming a physical artifact.",
+  "encodingFormat": [
+    "text/markdown",
+    "text/plain",
+    "application/json",
+    "application/ld+json"
+  ],
+  "inLanguage": [
+    "en",
+    "ko"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "time capsule",
+    "digital preservation",
+    "archive",
+    "plain text",
+    "markdown",
+    "compact disc",
+    "public repository",
+    "bilingual archive",
+    "Korean",
+    "semantic web"
+  ]
+}
