@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.2.0 - Exhibits layer
+
+- Re-reviewed the archive through the lens of exhibition.
+- Added museum-like exhibits for repository, commit, disc, README, and checksum.
+- Added a Korean exhibit guide.
+- Regenerated metadata, inventory, and checksums.
+
 ## 1.1.0 - Curation model
 
 - Re-reviewed the 1.0.1 archive as a growing collection.
