@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.7.0 - GitHub surface polish
+
+- Added GitHub About recommendation files in English and Korean.
+- Documented recommended description/topics/visible reading path.
+- Prepared for GitHub surface polish without creating a Release or tag.
+- Updated metadata, inventory, and checksums.
+
 ## 2.6.0 - Final metadata consistency
 
 - Updated structured metadata after the editorial polish.
