@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.5.0 - Future reader protocol
+
+- Re-reviewed the archive from the perspective of a future reader.
+- Added context-loss reading instructions and future question sets.
+- Documented missing context and known unknowns.
+- Updated metadata, inventory, and checksums.
+
 ## 1.4.0 - Git-native meaning
 
 - Re-reviewed Git as medium rather than mere transport.
