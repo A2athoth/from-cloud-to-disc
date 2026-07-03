@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 0.7.0 - Korean origin layer
+
+- Reconsidered Korean as an origin layer rather than only a translation layer.
+- Added Korean archive notes and a Korean disc discovery note.
+- Added translation and origin-language notes.
+- Preserved natural Korean phrasing instead of strict one-to-one translation.
+
 ## 0.6.0 - Semantic metadata layer
 
 - Reconsidered the repository as a semantic object as well as a human-readable archive.
