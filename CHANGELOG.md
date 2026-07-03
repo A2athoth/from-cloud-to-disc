@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.4.0 - Git-native meaning
+
+- Re-reviewed Git as medium rather than mere transport.
+- Added notes on commit, branch, history, and public repository as place.
+- Strengthened the repository-as-artifact idea.
+- Updated metadata, inventory, and checksums.
+
 ## 1.3.0 - Physical reading packet
 
 - Re-reviewed the archive as a physical reading object.
