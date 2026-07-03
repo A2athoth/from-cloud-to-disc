@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 1.6.0 - Korean depth pass
+
+- Re-reviewed the Korean layer for native-language depth.
+- Added short Korean essays on publicness, trace, materiality, and small repositories.
+- Added a Korean layer map.
+- Updated metadata, inventory, and checksums.
+
 ## 1.5.0 - Future reader protocol
 
 - Re-reviewed the archive from the perspective of a future reader.
