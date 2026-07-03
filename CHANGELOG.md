@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.1.0 - Korean final copy pass
+
+- Polished the Korean landing path.
+- Aligned Korean entry points with SUBMIT.ko.md.
+- Removed minor stiffness in Korean phrasing.
+- Updated metadata, inventory, and checksums.
+
 ## 3.0.0 - Submission-ready edition
 
 - Added top-level submission entry points in English and Korean.
