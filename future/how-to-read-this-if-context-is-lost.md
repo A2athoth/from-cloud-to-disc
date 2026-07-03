@@ -6,10 +6,10 @@ It runs no application.
 
 Instead, ask:
 
-1. What did the author think was worth preserving?
+1. What did the archive try to preserve?
 2. What media were being compared?
-3. Why did publicness matter?
+3. Why did public availability matter?
 4. Why did the archive keep both English and Korean?
-5. What does the structure reveal about the time it came from?
+5. What does the structure reveal about its time?
 
 If those questions still work, the archive still works.

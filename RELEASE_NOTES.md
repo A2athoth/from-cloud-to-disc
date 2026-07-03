@@ -1,23 +1,20 @@
-# Release Notes: 1.0.0
+# Release Notes
 
-This is the first candidate-complete version of `from-cloud-to-disc`.
+## Current status
 
-It is not final forever.
+The archive is now in a polished 2.x state.
 
-It is complete enough to stand as a public artifact.
+It is not final forever, but it is complete enough to stand as a public artifact.
 
-## What changed since 0.2.0
+## What changed since the first version
 
-- Reader orientation was added.
-- The disc layer was strengthened.
-- Preservation protocol documents were added.
-- Semantic metadata was expanded.
-- Korean became an origin layer rather than a small appendix.
-- Temporal archive documents were added.
-- File inventory and checksums were generated.
+- The repository became bilingual in structure, not only in translation.
+- The disc became a textual layer rather than a metaphor only.
+- Preservation, accessibility, curation, metadata, and reviewer paths were added.
+- Repeated entry documents were shortened and assigned clearer roles.
 
 ## What this version claims
 
 Only this:
 
-A small plain-text repository can be a meaningful artifact when it explains why it exists, how it can be read, and how it wants to be preserved.
+A small plain-text repository can be meaningful when it explains why it exists, how it can be read, and how it wants to be preserved.

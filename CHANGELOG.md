@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 2.3.0 - English tone unification
+
+- Unified the English tone across high-visibility files.
+- Reduced promotional phrasing and repeated identity statements.
+- Standardized archive terminology.
+- Updated metadata, inventory, and checksums.
+
 ## 2.2.0 - Korean naturalness pass
 
 - Polished high-visibility Korean files for naturalness.

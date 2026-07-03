@@ -1,17 +1,17 @@
 # Editorial Notes
 
-The archive was expanded through repeated review rather than simple accumulation.
+The archive grew through repeated review rather than simple accumulation.
 
-Each version asked what the current repository lacked as an artifact:
+Each pass asked what the current version lacked:
 
-- 0.3.0 asked how a reader enters.
-- 0.4.0 asked how the disc appears as material.
-- 0.5.0 asked how the archive explains preservation.
-- 0.6.0 asked how machines can read its identity.
-- 0.7.0 asked whether Korean was truly integrated.
-- 0.8.0 asked how time is represented.
-- 1.0.0 asked whether the collection is coherent enough to pause.
+- How does a reader enter?
+- How does the disc appear as material?
+- How does the archive explain preservation?
+- How can machines read its identity?
+- Is Korean integrated as origin, not appendix?
+- How is time represented?
+- What should be removed, shortened, or clarified?
 
-The answer at 1.0.0 is yes.
+The current answer is not that nothing else can be added.
 
-Not because nothing else can be added, but because more additions now risk weakening the shape.
+It is that new additions now need a clear reason to improve the shape.

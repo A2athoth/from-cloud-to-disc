@@ -1,6 +1,6 @@
 # Curation Principles
 
-## 1. Prefer entrances over walls
+## 1. Prefer clear entrances
 
 A new document should help a reader enter the archive or understand its structure.
 
@@ -12,7 +12,7 @@ Statements may age quickly. Questions often remain useful longer.
 
 If a document cannot be read in a basic text editor, it needs a strong reason to exist here.
 
-## 4. Prefer origin and context
+## 4. Preserve origin and context
 
 The archive should preserve not only contents, but the conditions that produced them.
 
