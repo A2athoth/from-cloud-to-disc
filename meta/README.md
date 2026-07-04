@@ -17,10 +17,10 @@ Files include:
 Current files and subfolders in this folder.
 
 - [`data/`](./data/): data/
-- [`capsule.json`](./capsule.json): machine-readable JSON data
-- [`catalog.ttl`](./catalog.ttl): RDF/Turtle metadata
-- [`datapackage.json`](./datapackage.json): machine-readable JSON data
-- [`dublin-core.json`](./dublin-core.json): machine-readable JSON data
+- [`capsule.json`](./capsule.json): compact identity metadata
+- [`catalog.ttl`](./catalog.ttl)
+- [`datapackage.json`](./datapackage.json): data package metadata
+- [`dublin-core.json`](./dublin-core.json): Dublin Core metadata
 - [`file-inventory.md`](./file-inventory.md): File Inventory (file inventory with hashes)
-- [`provenance.md`](./provenance.md): Provenance (Markdown document)
-- [`repository.jsonld`](./repository.jsonld): JSON-LD metadata
+- [`provenance.md`](./provenance.md): Provenance
+- [`repository.jsonld`](./repository.jsonld): linked-data repository metadata

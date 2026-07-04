@@ -10,8 +10,8 @@ The primary archive remains plain text written for humans.
 
 Current files and subfolders in this folder.
 
-- [`archive-map.json`](./archive-map.json): machine-readable JSON data
-- [`filesets.json`](./filesets.json): machine-readable JSON data
-- [`keywords.txt`](./keywords.txt): plain-text support file
-- [`layers.csv`](./layers.csv): machine-readable CSV data
-- [`timeline.json`](./timeline.json): machine-readable JSON data
+- [`archive-map.json`](./archive-map.json): layer and entry-point map
+- [`filesets.json`](./filesets.json): curated file sets
+- [`keywords.txt`](./keywords.txt): keyword list
+- [`layers.csv`](./layers.csv): layer table
+- [`timeline.json`](./timeline.json): timeline data

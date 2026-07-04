@@ -19,8 +19,8 @@ For a guided two-minute path, see [`../guide/REVIEWER_GUIDE.md`](../guide/REVIEW
 
 Current files and subfolders in this folder.
 
-- [`background.md`](./background.md): Background (Markdown document)
-- [`one-sentence.ko.md`](./one-sentence.ko.md): 한 문장 (Korean Markdown document)
-- [`one-sentence.md`](./one-sentence.md): One Sentence (Markdown document)
-- [`short-description.ko.md`](./short-description.ko.md): 짧은 설명 (Korean Markdown document)
-- [`short-description.md`](./short-description.md): Short Description (Markdown document)
+- [`background.md`](./background.md): Background
+- [`one-sentence.ko.md`](./one-sentence.ko.md): 한 문장
+- [`one-sentence.md`](./one-sentence.md): One Sentence
+- [`short-description.ko.md`](./short-description.ko.md): 짧은 설명
+- [`short-description.md`](./short-description.md): Short Description

@@ -32,12 +32,12 @@
 - [`disc/`](./disc/): disc/
 - [`essays/`](./essays/): essays/
 - [`exhibits/`](./exhibits/): exhibits/
-- [`artifacts.md`](./artifacts.md): 디지털 유물들 (Markdown document)
-- [`capsule.md`](./capsule.md): 캡슐 메타데이터 (Markdown document)
-- [`definitions.md`](./definitions.md): 정의들 (Markdown document)
-- [`note-on-language.md`](./note-on-language.md): 언어에 대한 메모 (Markdown document)
-- [`notes-to-the-future.md`](./notes-to-the-future.md): 미래의 독자에게 (Markdown document)
-- [`present.md`](./present.md): 현재 (Markdown document)
-- [`questions.md`](./questions.md): 보존할 질문들 (Markdown document)
-- [`software-proverbs.md`](./software-proverbs.md): 소프트웨어 속담 (Markdown document)
-- [`timeline.md`](./timeline.md): 타임라인 (Markdown document)
+- [`artifacts.md`](./artifacts.md): 디지털 유물들
+- [`capsule.md`](./capsule.md): 캡슐 메타데이터
+- [`definitions.md`](./definitions.md): 정의들
+- [`note-on-language.md`](./note-on-language.md): 언어에 대한 메모
+- [`notes-to-the-future.md`](./notes-to-the-future.md): 미래의 독자에게
+- [`present.md`](./present.md): 현재
+- [`questions.md`](./questions.md): 보존할 질문들
+- [`software-proverbs.md`](./software-proverbs.md): 소프트웨어 속담
+- [`timeline.md`](./timeline.md): 타임라인

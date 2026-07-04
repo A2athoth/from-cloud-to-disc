@@ -51,5 +51,5 @@ It is a set of origins, mirrors, and native-language reflections.
 
 Current files and subfolders in this folder.
 
-- [`glossary-ko-en.md`](./glossary-ko-en.md): Korean-English Glossary (Markdown document)
-- [`untranslatable-words.md`](./untranslatable-words.md): Almost Untranslatable Words (Markdown document)
+- [`glossary-ko-en.md`](./glossary-ko-en.md): Korean-English Glossary
+- [`untranslatable-words.md`](./untranslatable-words.md): Almost Untranslatable Words

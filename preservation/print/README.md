@@ -22,7 +22,7 @@ If only one sentence can be preserved, keep this:
 
 Current files and subfolders in this folder.
 
-- [`card-back.txt`](./card-back.txt): plain-text support file
-- [`card-front.txt`](./card-front.txt): plain-text support file
-- [`one-page-summary.ko.md`](./one-page-summary.ko.md): 한 페이지 요약 (Korean Markdown document)
-- [`one-page-summary.md`](./one-page-summary.md): One-Page Summary (Markdown document)
+- [`card-back.txt`](./card-back.txt): back side of a printable card
+- [`card-front.txt`](./card-front.txt): front side of a printable card
+- [`one-page-summary.ko.md`](./one-page-summary.ko.md): 한 페이지 요약
+- [`one-page-summary.md`](./one-page-summary.md): One-Page Summary

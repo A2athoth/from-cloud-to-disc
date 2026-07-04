@@ -56,11 +56,11 @@
 - [`preservation/`](./preservation/): preservation/
 - [`CHANGELOG.md`](./CHANGELOG.md): Changelog (version history summary)
 - [`CITATION.cff`](./CITATION.cff): citation metadata
-- [`INDEX.ko.md`](./INDEX.ko.md): 색인 (Korean Markdown document)
-- [`INDEX.md`](./INDEX.md): Index (Markdown document)
+- [`INDEX.ko.md`](./INDEX.ko.md): 색인
+- [`INDEX.md`](./INDEX.md): Index
 - [`LICENSE`](./LICENSE): CC0 license text
 - [`MANIFEST.md`](./MANIFEST.md): Manifest (artifact purpose statement)
-- [`README.md`](./README.md): From Cloud to Disc (Markdown document)
+- [`README.md`](./README.md): From Cloud to Disc
 - [`VERSION`](./VERSION): current artifact version
 
 ## 라이선스

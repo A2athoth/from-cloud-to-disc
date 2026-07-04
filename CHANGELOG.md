@@ -4,6 +4,13 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.8.0 - README label cleanup
+
+- Removed repetitive file-format labels such as `(Markdown document)` from README contents sections.
+- Kept file references complete while making local maps less noisy.
+- Added useful descriptions only where a filename alone would otherwise be too bare.
+- Updated metadata, inventory, and checksums.
+
 ## 3.7.0 - README coverage audit
 
 - Added or refreshed contents sections in folder README files so sibling files and subfolders are explicitly referenced.

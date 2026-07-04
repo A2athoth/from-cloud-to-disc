@@ -9,5 +9,5 @@
 
 이 폴더의 현재 파일과 하위 폴더입니다.
 
-- [`no-project-to-show.md`](./no-project-to-show.md): 보여줄 프로젝트가 없다는 것 (Markdown document)
-- [`small-public-traces.md`](./small-public-traces.md): 작은 공개 흔적들 (Markdown document)
+- [`no-project-to-show.md`](./no-project-to-show.md): 보여줄 프로젝트가 없다는 것
+- [`small-public-traces.md`](./small-public-traces.md): 작은 공개 흔적들

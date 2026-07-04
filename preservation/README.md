@@ -23,8 +23,8 @@ Current files and subfolders in this folder.
 
 - [`accessibility/`](./accessibility/): accessibility/
 - [`print/`](./print/): print/
-- [`bit-rot.md`](./bit-rot.md): Bit Rot (Markdown document)
-- [`file-format-policy.md`](./file-format-policy.md): File Format Policy (Markdown document)
-- [`migration-notes.md`](./migration-notes.md): Migration Notes (Markdown document)
-- [`redundancy.md`](./redundancy.md): Redundancy (Markdown document)
-- [`verification.md`](./verification.md): Verification (Markdown document)
+- [`bit-rot.md`](./bit-rot.md): Bit Rot
+- [`file-format-policy.md`](./file-format-policy.md): File Format Policy
+- [`migration-notes.md`](./migration-notes.md): Migration Notes
+- [`redundancy.md`](./redundancy.md): Redundancy
+- [`verification.md`](./verification.md): Verification

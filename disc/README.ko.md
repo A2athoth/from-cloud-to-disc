@@ -14,12 +14,12 @@
 
 이 폴더의 현재 파일과 하위 폴더입니다.
 
-- [`booklet.ko.md`](./booklet.ko.md): 부클릿 (Korean Markdown document)
-- [`booklet.md`](./booklet.md): Booklet (Markdown document)
-- [`case-insert.txt`](./case-insert.txt): plain-text support file
-- [`final-note.md`](./final-note.md): Final Note for the Disc (Markdown document)
-- [`if-found.md`](./if-found.md): If Found (Markdown document)
-- [`label.txt`](./label.txt): plain-text support file
-- [`readme-on-disc.md`](./readme-on-disc.md): README on Disc (Markdown document)
-- [`sleeve-note.txt`](./sleeve-note.txt): plain-text support file
-- [`volume-id.txt`](./volume-id.txt): plain-text support file
+- [`booklet.ko.md`](./booklet.ko.md): 부클릿
+- [`booklet.md`](./booklet.md): Booklet
+- [`case-insert.txt`](./case-insert.txt): disc case insert text
+- [`final-note.md`](./final-note.md): Final Note for the Disc
+- [`if-found.md`](./if-found.md): If Found
+- [`label.txt`](./label.txt): disc label text
+- [`readme-on-disc.md`](./readme-on-disc.md): README on Disc
+- [`sleeve-note.txt`](./sleeve-note.txt): sleeve note text
+- [`volume-id.txt`](./volume-id.txt): disc volume identifier
