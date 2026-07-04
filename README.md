@@ -30,14 +30,17 @@ The Korean layer is balanced by role, not by mechanical one-to-one file count. S
 
 ## Main folders
 
-These are the main folders. For the full folder map, see [`INDEX.md`](./INDEX.md).
+The root is compressed so related layers stay under stronger parent folders. For the full folder map, see [`INDEX.md`](./INDEX.md).
 
 - [`core/`](./core/): central archive texts
-- [`guide/`](./guide/): maps, reviewer paths, and editorial guidance
+- [`archive/`](./archive/): interpretation, future, exhibit, Git, and RFC layers
+- [`guide/`](./guide/): maps, reviewer paths, and curation guidance
 - [`context/`](./context/): concise context and explanations
 - [`ko/`](./ko/): Korean origin layer
+- [`language/`](./language/): bilingual and translation notes
 - [`disc/`](./disc/): disc-oriented texts
-- [`meta/`](./meta/): metadata, inventory, and checksums
+- [`preservation/`](./preservation/): verification, accessibility, print, and durability notes
+- [`meta/`](./meta/): metadata, machine-readable data, inventory, and checksums
 
 ## License
 

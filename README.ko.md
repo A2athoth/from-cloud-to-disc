@@ -24,18 +24,21 @@
 한국어는 이 생각의 출발점을 보존하기 위해 남겼습니다.  
 둘 다 이 기록의 일부입니다.
 
-한국어와 영어는 파일 수를 기계적으로 맞추기보다, 독자가 들어오는 경로 기준으로 균형을 맞춥니다. 자세한 기준은 [`guide/BILINGUAL_BALANCE.md`](./guide/BILINGUAL_BALANCE.md)에 있습니다.
+한국어와 영어는 파일 수를 기계적으로 맞추기보다, 독자가 들어오는 경로 기준으로 균형을 맞춥니다. 자세한 기준은 [`guide/BILINGUAL_BALANCE.ko.md`](./guide/BILINGUAL_BALANCE.ko.md)에 있습니다.
 
 ## 주요 폴더
 
-아래는 주요 폴더입니다. 전체 폴더 지도는 [`INDEX.ko.md`](./INDEX.ko.md)에서 볼 수 있습니다.
+루트는 압축했습니다. 관련 레이어는 더 강한 상위 폴더 아래에 둡니다. 전체 폴더 지도는 [`INDEX.ko.md`](./INDEX.ko.md)에서 볼 수 있습니다.
 
 - [`core/`](./core/): 핵심 아카이브 문서
-- [`guide/`](./guide/): 지도, 검토 경로, 편집 기준
+- [`archive/`](./archive/): 해석, 미래, 전시, Git, RFC 레이어
+- [`guide/`](./guide/): 지도, 검토 경로, 큐레이션 기준
 - [`context/`](./context/): 짧은 설명과 맥락
 - [`ko/`](./ko/): 한국어 출발점 레이어
+- [`language/`](./language/): 이중언어와 번역 관련 문서
 - [`disc/`](./disc/): 디스크를 상상한 문서
-- [`meta/`](./meta/): 메타데이터, 인벤토리, 체크섬
+- [`preservation/`](./preservation/): 검증, 접근성, 인쇄, 보존 문서
+- [`meta/`](./meta/): 메타데이터, 기계 판독 데이터, 인벤토리, 체크섬
 
 ## 라이선스
 

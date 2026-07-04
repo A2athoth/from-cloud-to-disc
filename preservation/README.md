@@ -11,3 +11,8 @@ It only states preferences:
 - visible structure over hidden behavior
 - checksums over blind trust
 - copies over uniqueness
+
+## Nested preservation layers
+
+- `accessibility/`: low-friction and offline reading notes
+- `print/`: printable summaries and card text

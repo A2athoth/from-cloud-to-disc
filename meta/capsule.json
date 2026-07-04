@@ -23,5 +23,5 @@
   "license": "CC0-1.0",
   "purpose": "A cleaned bilingual plain-text archive with a small root, role-based folders, and Korean/English balance by reader path rather than mechanical file parity.",
   "principle": "Small enough to understand; structured enough to preserve; bilingual by origin and reach.",
-  "version": "3.4.0"
+  "version": "3.5.0"
 }

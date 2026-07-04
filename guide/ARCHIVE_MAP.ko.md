@@ -10,25 +10,25 @@
 
 타임캡슐의 중심 문서입니다: `core/capsule.md`, `core/present.md`, `core/notes-to-the-future.md`, `core/questions.md`, `core/timeline.md`.
 
-## 3. 한국어 출발점
+## 3. 아카이브 해석
+
+해석과 미래 독자를 위한 레이어는 `archive/` 아래에 있습니다: `archive/git/`, `archive/exhibits/`, `archive/future/`, `archive/rfc/`.
+
+## 4. 한국어 출발점
 
 이 생각이 어디에서 시작되었는지 보존하는 언어 층위입니다: `ko/`, `language/`, `README.ko.md`.
 
-## 4. 물리 매체
+## 5. 물리 매체
 
-저장소가 디스크나 인쇄물로 읽힐 가능성을 상상한 문서입니다: `disc/`, `print/`.
-
-## 5. 해석
-
-저장소를 전시물, 미래의 유물, Git 기반 기록으로 읽는 문서입니다: `archive/`, `exhibits/`, `future/`, `git/`, `rfc/`.
+저장소가 디스크나 인쇄물로 읽힐 가능성을 상상한 문서입니다: `disc/`, `preservation/print/`.
 
 ## 6. 관리와 보존
 
-저장소가 너무 산만해지지 않고 오래 읽히도록 돕는 문서입니다: `curation/`, `preservation/`, `accessibility/`, `context/`.
+저장소가 너무 산만해지지 않고 오래 읽히도록 돕는 문서입니다: `guide/curation/`, `preservation/`, `preservation/accessibility/`, `context/`.
 
 ## 7. 기계가 읽는 보조 정보
 
-구조화된 메타데이터와 무결성 정보입니다: `meta/`, `data/`, `CITATION.cff`.
+구조화된 메타데이터와 무결성 정보입니다: `meta/`, `meta/data/`, `CITATION.cff`.
 
 ## 8. 변화의 기록
 

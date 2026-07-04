@@ -15,7 +15,7 @@ This is the curated collection summary. It is shorter than the full index and mo
 1. [`README.ko.md`](../README.ko.md)
 2. [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
 3. [`ko/note-on-language.md`](../ko/note-on-language.md)
-4. [`ko/essays/public-and-discoverable.md`](../ko/essays/public-and-discoverable.md)
+4. [`ko/essays/small-public-traces.md`](../ko/essays/small-public-traces.md)
 
 ## Preservation reading
 

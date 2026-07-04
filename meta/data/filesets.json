@@ -39,6 +39,6 @@
     "meta/repository.jsonld",
     "meta/dublin-core.json",
     "meta/datapackage.json",
-    "data/archive-map.json"
+    "meta/data/archive-map.json"
   ]
 }

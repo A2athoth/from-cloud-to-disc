@@ -3,3 +3,4 @@
 이 폴더는 영어 문서의 번역이 아니라, 한국어에서 더 자연스럽게 설명되는 생각들을 담습니다.
 
 짧고 조용하게 유지합니다.
+- [`small-public-traces.md`](./small-public-traces.md)

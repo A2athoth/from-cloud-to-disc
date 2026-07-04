@@ -14,8 +14,8 @@
 
 1. [`ko/note-on-language.md`](../ko/note-on-language.md)
 2. [`language/ko-layer-map.md`](../language/ko-layer-map.md)
-3. [`ko/essays/public-and-discoverable.md`](../ko/essays/public-and-discoverable.md)
-4. [`ko/essays/record-and-trace.md`](../ko/essays/record-and-trace.md)
+3. [`ko/essays/small-public-traces.md`](../ko/essays/small-public-traces.md)
+4. [`ko/essays/small-public-traces.md`](../ko/essays/small-public-traces.md)
 
 ## 보존 관련 읽기
 

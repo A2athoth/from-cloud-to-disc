@@ -1,20 +1,16 @@
 {
   "name": "from-cloud-to-disc",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "repository": "https://github.com/A2athoth/from-cloud-to-disc",
-  "current_goal": "A consistency-repaired bilingual plain-text artifact with role-based folders and current metadata.",
+  "current_goal": "A compressed bilingual plain-text artifact with fewer root folders and less fragmented short notes.",
   "layers": [
     "entrance",
-    "review",
     "core",
+    "archive-interpretation",
     "korean-origin",
     "physical-media",
     "preservation",
     "metadata",
-    "future",
-    "curation",
-    "exhibits",
-    "accessibility",
     "context",
     "change-history"
   ],

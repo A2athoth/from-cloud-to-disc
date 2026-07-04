@@ -4,6 +4,15 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.5.0 - Structure compression
+
+- Reduced root-level folders by nesting interpretation, preservation, curation, and machine-readable support layers.
+- Moved `archive/git/`, `archive/rfc/`, `archive/exhibits/`, and `archive/future/` under `archive/`.
+- Moved `preservation/accessibility/` and `preservation/print/` under `preservation/`.
+- Moved `guide/curation/` under `guide/curation/` and `meta/data/` under `meta/data/`.
+- Merged several very short notes into compact README or essay documents.
+- Updated indexes, maps, metadata, inventory, and checksums after the compression.
+
 ## 3.4.0 - Consistency repair
 
 - Corrected stale references left after the 3.3.0 structure cleanup.

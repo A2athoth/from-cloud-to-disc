@@ -21,3 +21,7 @@ This folder contains navigation, review, and editorial guidance for the archive.
 - `CORE_STATEMENTS.md`: controlled repeated statements
 
 General readers can start with `REVIEWER_GUIDE.md` and skip the internal review notes.
+
+## Curation
+
+- `curation/`: growth and selection rules
