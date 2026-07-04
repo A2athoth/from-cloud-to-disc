@@ -13,7 +13,7 @@
 ## 한국어 출발점 읽기
 
 1. [`ko/note-on-language.md`](../ko/note-on-language.md)
-2. [`language/ko-layer-map.md`](../language/ko-layer-map.md)
+2. [`language/README.md`](../language/README.md)
 3. [`ko/essays/small-public-traces.md`](../ko/essays/small-public-traces.md)
 4. [`ko/essays/small-public-traces.md`](../ko/essays/small-public-traces.md)
 

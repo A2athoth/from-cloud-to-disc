@@ -4,6 +4,16 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.6.0 - Internal compression
+
+- Merged remaining short internal fragments in future, curation, Korean archive, context, and language layers.
+- Collapsed `archive/future/` notes into `archive/future/README.md`.
+- Collapsed `guide/curation/` rules into `guide/curation/README.md`.
+- Collapsed `ko/archive/` notes into `ko/archive/README.md`.
+- Merged short context background files into `context/background.md`.
+- Merged language structure notes into `language/README.md` while keeping glossary and untranslatable-word files separate.
+- Updated indexes, maps, metadata, inventory, and checksums.
+
 ## 3.5.0 - Structure compression
 
 - Reduced root-level folders by nesting interpretation, preservation, curation, and machine-readable support layers.

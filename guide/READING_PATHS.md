@@ -20,7 +20,7 @@
 1. [`README.ko.md`](../README.ko.md)
 2. [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md)
 3. [`ko/note-on-language.md`](../ko/note-on-language.md)
-4. [`language/ko-layer-map.md`](../language/ko-layer-map.md)
+4. [`language/README.md`](../language/README.md)
 
 ## If you want preservation details
 

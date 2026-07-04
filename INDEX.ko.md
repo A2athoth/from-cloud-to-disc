@@ -26,7 +26,7 @@
 - [`archive/`](./archive/): 관찰과 미래 독자를 위한 아카이브 노트
 - [`archive/git/`](./archive/git/): Git을 기억과 공개 흔적으로 읽는 문서
 - [`archive/exhibits/`](./archive/exhibits/): 작은 전시 형식의 소프트웨어 오브젝트 읽기
-- [`archive/future/`](./archive/future/): 나중의 독자와 잃어버린 맥락을 위한 문서
+- [`archive/future/`](./archive/future/): 나중의 독자와 잃어버린 맥락을 위한 묶음 문서
 - [`archive/rfc/`](./archive/rfc/): 작은 RFC 형식의 선언
 
 ## 안내와 맥락
@@ -36,12 +36,12 @@
 - [`guide/ARCHIVE_MAP.ko.md`](./guide/ARCHIVE_MAP.ko.md)
 - [`guide/ARCHIVE_MAP.md`](./guide/ARCHIVE_MAP.md)
 - [`guide/curation/`](./guide/curation/): 성장과 선택 기준
-- [`context/`](./context/): 짧은 설명과 맥락
+- [`context/`](./context/): 한 문장 요약, 짧은 설명, 압축된 배경
 
 ## 한국어와 언어
 
 - [`ko/`](./ko/): 한국어 출발점 레이어
-- [`language/`](./language/): 이중언어, 핵심어, 번역 맥락
+- [`language/`](./language/): 언어 구조, 이중언어 핵심어, 번역 맥락
 
 ## 물리 매체와 보존
 

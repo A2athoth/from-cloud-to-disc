@@ -26,7 +26,7 @@ This is the root index. The root is intentionally compressed; related layers liv
 - [`archive/`](./archive/): observations and future-facing archive notes
 - [`archive/git/`](./archive/git/): Git-native interpretations of memory and public traces
 - [`archive/exhibits/`](./archive/exhibits/): compact museum-like readings of software objects
-- [`archive/future/`](./archive/future/): notes for later readers and unknown contexts
+- [`archive/future/`](./archive/future/): gathered notes for later readers and unknown contexts
 - [`archive/rfc/`](./archive/rfc/): small request-for-comment style statements
 
 ## Guidance and context
@@ -36,12 +36,12 @@ This is the root index. The root is intentionally compressed; related layers liv
 - [`guide/ARCHIVE_MAP.md`](./guide/ARCHIVE_MAP.md)
 - [`guide/ARCHIVE_MAP.ko.md`](./guide/ARCHIVE_MAP.ko.md)
 - [`guide/curation/`](./guide/curation/): growth and selection rules
-- [`context/`](./context/): short explanations and description-ready context
+- [`context/`](./context/): one-sentence summaries, short descriptions, and compact background
 
 ## Korean and language
 
 - [`ko/`](./ko/): Korean origin layer, including mirrors and native essays
-- [`language/`](./language/): bilingual notes, key terms, and translation context
+- [`language/`](./language/): language structure, bilingual terms, and translation context
 
 ## Physical media and preservation
 
