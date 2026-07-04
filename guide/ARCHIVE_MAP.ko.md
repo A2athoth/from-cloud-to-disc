@@ -4,11 +4,11 @@
 
 ## 1. 입구
 
-저장소를 빠르게 이해하기 위한 문서입니다: `README.ko.md`, `REVIEWER_GUIDE.ko.md`, `READING_PATHS.ko.md`, `FAQ.ko.md`.
+저장소를 빠르게 이해하기 위한 문서입니다: `README.ko.md`, `guide/REVIEWER_GUIDE.ko.md`, `guide/READING_PATHS.ko.md`, `guide/FAQ.ko.md`.
 
 ## 2. 핵심 아카이브
 
-타임캡슐의 중심 문서입니다: `capsule.md`, `present.md`, `notes-to-the-future.md`, `questions.md`, `timeline.md`.
+타임캡슐의 중심 문서입니다: `core/capsule.md`, `core/present.md`, `core/notes-to-the-future.md`, `core/questions.md`, `core/timeline.md`.
 
 ## 3. 한국어 출발점
 

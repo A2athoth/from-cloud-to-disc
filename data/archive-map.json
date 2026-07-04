@@ -1,8 +1,8 @@
 {
   "name": "from-cloud-to-disc",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "repository": "https://github.com/A2athoth/from-cloud-to-disc",
-  "current_goal": "A cleaned, submission-ready bilingual plain-text artifact with role-based folders.",
+  "current_goal": "A consistency-repaired bilingual plain-text artifact with role-based folders and current metadata.",
   "layers": [
     "entrance",
     "review",
@@ -15,17 +15,17 @@
     "curation",
     "exhibits",
     "accessibility",
-    "submission",
+    "context",
     "change-history"
   ],
   "recommended_entry": [
     "README.md",
-    "REVIEWER_GUIDE.md",
-    "submission/short-description.md"
+    "guide/REVIEWER_GUIDE.md",
+    "context/short-description.md"
   ],
   "korean_entry": [
     "README.ko.md",
-    "REVIEWER_GUIDE.ko.md",
-    "submission/short-description.ko.md"
+    "guide/REVIEWER_GUIDE.ko.md",
+    "context/short-description.ko.md"
   ]
 }

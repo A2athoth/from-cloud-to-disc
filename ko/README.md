@@ -22,3 +22,4 @@
 - [`questions.md`](./questions.md)
 - [`capsule.md`](./capsule.md)
 - [`note-on-language.md`](./note-on-language.md)
+- [`essays/no-project-to-show.md`](./essays/no-project-to-show.md)

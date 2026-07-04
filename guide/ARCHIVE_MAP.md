@@ -4,11 +4,11 @@ This is the conceptual map. It explains the archive by role, not by every file.
 
 ## 1. Entrance
 
-Quick ways to understand the project: `README.md`, `REVIEWER_GUIDE.md`, `READING_PATHS.md`, `FAQ.md`.
+Quick ways to understand the project: `README.md`, `guide/REVIEWER_GUIDE.md`, `guide/READING_PATHS.md`, `guide/FAQ.md`.
 
 ## 2. Core archive
 
-The central time-capsule texts: `capsule.md`, `present.md`, `notes-to-the-future.md`, `questions.md`, `timeline.md`.
+The central time-capsule texts: `core/capsule.md`, `core/present.md`, `core/notes-to-the-future.md`, `core/questions.md`, `core/timeline.md`.
 
 ## 3. Korean origin
 

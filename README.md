@@ -30,6 +30,8 @@ The Korean layer is balanced by role, not by mechanical one-to-one file count. S
 
 ## Main folders
 
+These are the main folders. For the full folder map, see [`INDEX.md`](./INDEX.md).
+
 - [`core/`](./core/): central archive texts
 - [`guide/`](./guide/): maps, reviewer paths, and editorial guidance
 - [`context/`](./context/): concise context and explanations

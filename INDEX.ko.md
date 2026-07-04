@@ -16,6 +16,7 @@
 - [`guide/ARCHIVE_MAP.ko.md`](./guide/ARCHIVE_MAP.ko.md)
 - [`guide/ARCHIVE_MAP.md`](./guide/ARCHIVE_MAP.md)
 - [`guide/COLLECTION.ko.md`](./guide/COLLECTION.ko.md)
+- [`guide/BILINGUAL_BALANCE.ko.md`](./guide/BILINGUAL_BALANCE.ko.md)
 - [`guide/COLLECTION.md`](./guide/COLLECTION.md)
 - [`guide/BILINGUAL_BALANCE.md`](./guide/BILINGUAL_BALANCE.md)
 - [`guide/ROOT_STRUCTURE_REVIEW.md`](./guide/ROOT_STRUCTURE_REVIEW.md)

@@ -6,7 +6,7 @@ Recommended offline entry points:
 
 1. `README.md`
 2. `README.ko.md`
-3. `COLLECTION.md`
+3. `guide/COLLECTION.md`
 4. `disc/readme-on-disc.md`
 5. `accessibility/plain-language-summary.md`
 

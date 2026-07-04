@@ -4,7 +4,7 @@ The archive repeats its identity in several places:
 
 - `README.md`
 - `MANIFEST.md`
-- `capsule.md`
+- `core/capsule.md`
 - `meta/capsule.json`
 - `meta/repository.jsonld`
 - `disc/volume-id.txt`

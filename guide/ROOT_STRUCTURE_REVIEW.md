@@ -25,15 +25,23 @@ Keep the root directory as an entrance, not a storage room.
 
 - guide and review documents -> `guide/`
 - core archive texts -> `core/`
-- submission explanations -> `context/`
+- short context explanations -> `context/`
 
-## Removed
+## Kept as entry points
+
+These files remain because they help readers evaluate the archive quickly:
 
 - `context/short-description.md`
 - `context/short-description.ko.md`
 - `guide/REVIEWER_GUIDE.md`
 - `guide/REVIEWER_GUIDE.ko.md`
-- `context/github-about.md`
-- `context/github-about.ko.md`
 
-Those files were useful during preparation, but too administrative for the final source tree.
+## Removed as too administrative
+
+- GitHub About recommendation files after the repository description and topics were set
+- handoff-specific files that described the preparation workflow rather than the artifact itself
+- root-level submission/handoff entry points that made the source tree feel procedural
+
+## Result
+
+The root is now an entrance. The folders carry the archive layers, and the high-level guides explain where to begin without making every preparation artifact visible as source content.

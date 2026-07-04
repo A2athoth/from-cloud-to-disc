@@ -1,6 +1,6 @@
 # Index
 
-This is the root index. The root is intentionally kept small; most documents live in folders by role.
+This is the root index. The root is intentionally kept small; most documents live in folders by role. For a complete byte-level list, see `meta/file-inventory.md`.
 
 ## Entry points
 
@@ -13,16 +13,19 @@ This is the root index. The root is intentionally kept small; most documents liv
 
 ## Maps and editorial guidance
 
+- [`guide/README.md`](./guide/README.md)
 - [`guide/ARCHIVE_MAP.md`](./guide/ARCHIVE_MAP.md)
 - [`guide/ARCHIVE_MAP.ko.md`](./guide/ARCHIVE_MAP.ko.md)
 - [`guide/COLLECTION.md`](./guide/COLLECTION.md)
 - [`guide/COLLECTION.ko.md`](./guide/COLLECTION.ko.md)
 - [`guide/BILINGUAL_BALANCE.md`](./guide/BILINGUAL_BALANCE.md)
+- [`guide/BILINGUAL_BALANCE.ko.md`](./guide/BILINGUAL_BALANCE.ko.md)
 - [`guide/ROOT_STRUCTURE_REVIEW.md`](./guide/ROOT_STRUCTURE_REVIEW.md)
 
 ## Core archive
 
 - [`core/`](./core/)
+- [`core/README.md`](./core/README.md)
 - [`core/capsule.md`](./core/capsule.md)
 - [`core/present.md`](./core/present.md)
 - [`core/definitions.md`](./core/definitions.md)
@@ -31,27 +34,27 @@ This is the root index. The root is intentionally kept small; most documents liv
 
 ## Context and interpretation
 
-- [`context/`](./context/)
-- [`archive/`](./archive/)
-- [`exhibits/`](./exhibits/)
-- [`future/`](./future/)
-- [`git/`](./git/)
-- [`rfc/`](./rfc/)
+- [`context/`](./context/): short explanations and description-ready context
+- [`archive/`](./archive/): observations and future-facing archive notes
+- [`exhibits/`](./exhibits/): small museum-like readings of software objects
+- [`future/`](./future/): notes for later readers and unknown contexts
+- [`git/`](./git/): Git-native interpretations of memory and public traces
+- [`rfc/`](./rfc/): small request-for-comment style statements
 
 ## Korean origin
 
-- [`ko/`](./ko/)
-- [`language/`](./language/)
+- [`ko/`](./ko/): Korean origin layer, including mirrors and native essays
+- [`language/`](./language/): bilingual notes, key terms, and translation context
 
 ## Preservation and metadata
 
-- [`preservation/`](./preservation/)
-- [`accessibility/`](./accessibility/)
-- [`meta/`](./meta/)
-- [`data/`](./data/)
+- [`preservation/`](./preservation/): durability, checksums, redundancy, and verification notes
+- [`accessibility/`](./accessibility/): plain-language, offline, and low-friction reading notes
+- [`meta/`](./meta/): provenance, structured metadata, inventory, and checksums
+- [`data/`](./data/): small machine-readable maps and file sets
 
 ## History
 
 - [`CHANGELOG.md`](./CHANGELOG.md)
 - [`VERSION`](./VERSION)
-- [`evolution/`](./evolution/)
+- [`evolution/`](./evolution/): version-by-version notes; general readers can skip this folder

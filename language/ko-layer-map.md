@@ -2,7 +2,7 @@
 
 The Korean layer appears in several forms:
 
-- root-level Korean entrances: `README.ko.md`, `INDEX.ko.md`, `COLLECTION.ko.md`
+- root-level Korean entrances: `README.ko.md`, `INDEX.ko.md`, `guide/COLLECTION.ko.md`
 - Korean mirrors: `ko/present.md`, `ko/definitions.md`, and related files
 - Korean-specific essays: `ko/essays/`
 - Korean archive notes: `ko/archive/`

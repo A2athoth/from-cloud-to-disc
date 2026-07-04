@@ -1,5 +1,7 @@
 # Bilingual Balance Policy
 
+Korean version: [`BILINGUAL_BALANCE.ko.md`](./BILINGUAL_BALANCE.ko.md)
+
 This repository is bilingual, but it is not a strict line-by-line translation project.
 
 ## Principle

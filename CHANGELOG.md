@@ -4,10 +4,20 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.4.0 - Consistency repair
+
+- Corrected stale references left after the 3.3.0 structure cleanup.
+- Updated context, archive-map, root-structure, and evolution notes to match the current tree.
+- Added clearer guide and index navigation for the existing folder layers.
+- Added Korean bilingual-balance guidance and a Korean origin essay.
+- Replaced the short license summary with the standard CC0 1.0 legal code for better GitHub recognition.
+- Expanded citation metadata and updated machine-readable version fields.
+- Regenerated metadata inventory and checksums.
+
 ## 3.3.0 - Source cleanup and bilingual balance policy
 
 - Removed context/handoff files that made the archive feel too event-administrative.
-- Renamed `context/` to `context/` for a more natural archival role.
+- Reframed submission-oriented materials as `context/` documents for a more natural archival role.
 - Reduced root clutter by moving guide and core documents into `guide/` and `core/`.
 - Added a bilingual balance policy explaining why Korean does not need strict one-to-one parity.
 - Updated links, metadata, inventory, and checksums after the restructure.

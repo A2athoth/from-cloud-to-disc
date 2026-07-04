@@ -7,7 +7,7 @@ This file is written for the possibility that the repository is being read from 
 1. `README.md`
 2. `MANIFEST.md`
 3. `INDEX.md`
-4. `notes-to-the-future.md`
+4. `core/notes-to-the-future.md`
 5. `ko/README.md`
 6. `meta/provenance.md`
 
