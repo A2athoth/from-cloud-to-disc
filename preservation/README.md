@@ -16,3 +16,15 @@ It only states preferences:
 
 - `accessibility/`: low-friction and offline reading notes
 - `print/`: printable summaries and card text
+
+## Contents
+
+Current files and subfolders in this folder.
+
+- [`accessibility/`](./accessibility/): accessibility/
+- [`print/`](./print/): print/
+- [`bit-rot.md`](./bit-rot.md): Bit Rot (Markdown document)
+- [`file-format-policy.md`](./file-format-policy.md): File Format Policy (Markdown document)
+- [`migration-notes.md`](./migration-notes.md): Migration Notes (Markdown document)
+- [`redundancy.md`](./redundancy.md): Redundancy (Markdown document)
+- [`verification.md`](./verification.md): Verification (Markdown document)

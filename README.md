@@ -42,6 +42,29 @@ The root is compressed so related layers stay under stronger parent folders. For
 - [`preservation/`](./preservation/): verification, accessibility, print, and durability notes
 - [`meta/`](./meta/): metadata, machine-readable data, inventory, and checksums
 
+## Contents
+
+Current files and subfolders in this folder.
+
+- [`archive/`](./archive/): archive/
+- [`context/`](./context/): context/
+- [`core/`](./core/): core/
+- [`disc/`](./disc/): disc/
+- [`evolution/`](./evolution/): evolution/
+- [`guide/`](./guide/): guide/
+- [`ko/`](./ko/): ko/
+- [`language/`](./language/): language/
+- [`meta/`](./meta/): meta/
+- [`preservation/`](./preservation/): preservation/
+- [`CHANGELOG.md`](./CHANGELOG.md): Changelog (version history summary)
+- [`CITATION.cff`](./CITATION.cff): citation metadata
+- [`INDEX.ko.md`](./INDEX.ko.md): 색인 (Korean Markdown document)
+- [`INDEX.md`](./INDEX.md): Index (Markdown document)
+- [`LICENSE`](./LICENSE): CC0 license text
+- [`MANIFEST.md`](./MANIFEST.md): Manifest (artifact purpose statement)
+- [`README.ko.md`](./README.ko.md): From Cloud to Disc (Korean Markdown document)
+- [`VERSION`](./VERSION): current artifact version
+
 ## License
 
 Released under [CC0 1.0 Universal](./LICENSE).

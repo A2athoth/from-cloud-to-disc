@@ -46,3 +46,10 @@ It is a set of origins, mirrors, and native-language reflections.
 
 - `glossary-ko-en.md`: Korean-English term mapping
 - `untranslatable-words.md`: words whose meaning does not move cleanly between languages
+
+## Contents
+
+Current files and subfolders in this folder.
+
+- [`glossary-ko-en.md`](./glossary-ko-en.md): Korean-English Glossary (Markdown document)
+- [`untranslatable-words.md`](./untranslatable-words.md): Almost Untranslatable Words (Markdown document)

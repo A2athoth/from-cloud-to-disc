@@ -25,3 +25,27 @@ General readers can start with `REVIEWER_GUIDE.md` and skip the internal review 
 ## Curation
 
 - `curation/`: growth and selection rules
+
+## Contents
+
+Current files and subfolders in this folder.
+
+- [`curation/`](./curation/): curation/
+- [`ARCHIVE_MAP.ko.md`](./ARCHIVE_MAP.ko.md): 아카이브 지도 (Korean Markdown document)
+- [`ARCHIVE_MAP.md`](./ARCHIVE_MAP.md): Archive Map (Markdown document)
+- [`BILINGUAL_BALANCE.ko.md`](./BILINGUAL_BALANCE.ko.md): 이중언어 균형 정책 (Korean Markdown document)
+- [`BILINGUAL_BALANCE.md`](./BILINGUAL_BALANCE.md): Bilingual Balance Policy (Markdown document)
+- [`COLLECTION.ko.md`](./COLLECTION.ko.md): 컬렉션 (Korean Markdown document)
+- [`COLLECTION.md`](./COLLECTION.md): Collection (Markdown document)
+- [`CORE_STATEMENTS.md`](./CORE_STATEMENTS.md): Core Statements (Markdown document)
+- [`EDITORIAL_NOTES.md`](./EDITORIAL_NOTES.md): Editorial Notes (Markdown document)
+- [`FAQ.ko.md`](./FAQ.ko.md): 자주 묻는 질문 (Korean Markdown document)
+- [`FAQ.md`](./FAQ.md): FAQ (Markdown document)
+- [`READING_PATHS.ko.md`](./READING_PATHS.ko.md): 읽는 경로 (Korean Markdown document)
+- [`READING_PATHS.md`](./READING_PATHS.md): Reading Paths (Markdown document)
+- [`RELEASE_NOTES.md`](./RELEASE_NOTES.md): Release Notes (Markdown document)
+- [`REVIEW_TEST.ko.md`](./REVIEW_TEST.ko.md): 2분 읽기 테스트 (Korean Markdown document)
+- [`REVIEW_TEST.md`](./REVIEW_TEST.md): Two-Minute Read Test (Markdown document)
+- [`REVIEWER_GUIDE.ko.md`](./REVIEWER_GUIDE.ko.md): 검토자 안내 (Korean Markdown document)
+- [`REVIEWER_GUIDE.md`](./REVIEWER_GUIDE.md): Reviewer Guide (Markdown document)
+- [`ROOT_STRUCTURE_REVIEW.md`](./ROOT_STRUCTURE_REVIEW.md): Root Structure Review (Markdown document)

@@ -40,6 +40,29 @@
 - [`preservation/`](./preservation/): 검증, 접근성, 인쇄, 보존 문서
 - [`meta/`](./meta/): 메타데이터, 기계 판독 데이터, 인벤토리, 체크섬
 
+## 포함된 항목
+
+이 폴더의 현재 파일과 하위 폴더입니다.
+
+- [`archive/`](./archive/): archive/
+- [`context/`](./context/): context/
+- [`core/`](./core/): core/
+- [`disc/`](./disc/): disc/
+- [`evolution/`](./evolution/): evolution/
+- [`guide/`](./guide/): guide/
+- [`ko/`](./ko/): ko/
+- [`language/`](./language/): language/
+- [`meta/`](./meta/): meta/
+- [`preservation/`](./preservation/): preservation/
+- [`CHANGELOG.md`](./CHANGELOG.md): Changelog (version history summary)
+- [`CITATION.cff`](./CITATION.cff): citation metadata
+- [`INDEX.ko.md`](./INDEX.ko.md): 색인 (Korean Markdown document)
+- [`INDEX.md`](./INDEX.md): Index (Markdown document)
+- [`LICENSE`](./LICENSE): CC0 license text
+- [`MANIFEST.md`](./MANIFEST.md): Manifest (artifact purpose statement)
+- [`README.md`](./README.md): From Cloud to Disc (Markdown document)
+- [`VERSION`](./VERSION): current artifact version
+
 ## 라이선스
 
 CC0 1.0 Universal로 공개합니다.

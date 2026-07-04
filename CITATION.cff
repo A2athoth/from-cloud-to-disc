@@ -4,7 +4,7 @@ message: If you cite this artifact, cite it as a public plain-text time capsule.
 type: dataset
 authors:
   - name: A2athoth
-version: 3.6.0
+version: 3.7.0
 date-released: 2026-07-04
 abstract: A bilingual plain-text time capsule about a public GitHub repository moving from cloud storage toward a physical disc.
 url: https://github.com/A2athoth/from-cloud-to-disc

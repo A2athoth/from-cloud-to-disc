@@ -23,3 +23,21 @@
 - [`capsule.md`](./capsule.md)
 - [`note-on-language.md`](./note-on-language.md)
 - [`essays/no-project-to-show.md`](./essays/no-project-to-show.md)
+
+## 포함된 항목
+
+이 폴더의 현재 파일과 하위 폴더입니다.
+
+- [`archive/`](./archive/): archive/
+- [`disc/`](./disc/): disc/
+- [`essays/`](./essays/): essays/
+- [`exhibits/`](./exhibits/): exhibits/
+- [`artifacts.md`](./artifacts.md): 디지털 유물들 (Markdown document)
+- [`capsule.md`](./capsule.md): 캡슐 메타데이터 (Markdown document)
+- [`definitions.md`](./definitions.md): 정의들 (Markdown document)
+- [`note-on-language.md`](./note-on-language.md): 언어에 대한 메모 (Markdown document)
+- [`notes-to-the-future.md`](./notes-to-the-future.md): 미래의 독자에게 (Markdown document)
+- [`present.md`](./present.md): 현재 (Markdown document)
+- [`questions.md`](./questions.md): 보존할 질문들 (Markdown document)
+- [`software-proverbs.md`](./software-proverbs.md): 소프트웨어 속담 (Markdown document)
+- [`timeline.md`](./timeline.md): 타임라인 (Markdown document)

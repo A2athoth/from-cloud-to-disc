@@ -4,6 +4,12 @@
 
 The archive may continue to change before it becomes a fixed artifact.
 
+## 3.7.0 - README coverage audit
+
+- Added or refreshed contents sections in folder README files so sibling files and subfolders are explicitly referenced.
+- Repaired README-level omissions after the internal compression passes.
+- Updated metadata, inventory, and checksums after the audit.
+
 ## 3.6.0 - Internal compression
 
 - Merged remaining short internal fragments in future, curation, Korean archive, context, and language layers.
